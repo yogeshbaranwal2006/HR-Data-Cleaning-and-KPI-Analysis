@@ -1,0 +1,1001 @@
+emp_id,name,department,job_role,gender,age,join_date,salary,avg_working_hours,leaves_taken,performance_rating,last_promotion_year,exit_date,exit_reason
+1,Blake Greer,Marketing,Analyst,Male,60,2017-09-01,69541,8.1,6,1,,,Better Opportunity
+2,John Eaton,Operations,Engineer,Male,40,2021-04-28,30611,7.2,0,5,,,
+3,Cheryl Robinson,Marketing,Manager,Female,52,2020-06-04,50661,8.1,0,4,2024.0,2025-07-04,Better Opportunity
+4,Annette Robinson,IT,Associate,Male,56,2025-02-19,87429,7.1,29,5,,,Personal
+5,Julia Robinson,Sales,Executive,Female,29,2018-07-16,75147,10.1,0,5,,,
+6,Cynthia Green,IT,Engineer,Male,41,2020-02-25,95334,7.0,17,4,2022.0,,Layoff
+7,Michael Mendez,Marketing,Engineer,Female,45,2018-12-16,31554,9.6,2,3,2024.0,2024-04-05,Better Opportunity
+8,Aaron Santiago,Marketing,Engineer,Male,28,2019-03-09,104032,8.4,12,2,2019.0,2026-01-09,Performance
+9,Calvin Wilson,Operations,Engineer,Female,27,2020-05-12,62426,7.0,2,2,,,Performance
+10,Brandon Cox,IT,Engineer,Female,45,2019-11-13,138669,9.1,10,4,2018.0,,Personal
+11,Jacob Holt,IT,Manager,Female,60,2023-10-17,38823,7.4,6,4,2017.0,,
+12,Matthew Arnold,Finance,Manager,Male,45,2024-01-21,140128,9.3,15,4,2019.0,2024-06-26,Personal
+13,Jeffrey Phillips,HR,Associate,Male,26,2017-08-02,149742,9.0,27,1,,2023-08-20,Better Opportunity
+14,Wendy Gonzalez,IT,Analyst,Female,58,2021-07-31,128018,10.5,6,2,2016.0,2023-06-22,Better Opportunity
+15,Philip Esparza,Operations,Analyst,Female,50,2024-06-20,45623,10.4,13,5,2020.0,2025-10-28,Performance
+16,Michael Smith,Marketing,Associate,Male,43,2018-12-14,125762,9.7,3,3,2019.0,,Better Opportunity
+17,James Scott,Operations,Analyst,Female,39,2018-11-14,109891,6.2,1,5,2016.0,2024-03-27,Performance
+18,Katelyn Welch,Operations,Manager,Male,21,2025-01-17,33879,7.3,28,4,,,Better Opportunity
+19,Kenneth Mitchell,Operations,Associate,Male,49,2021-11-24,92557,6.6,10,5,2020.0,,Better Opportunity
+20,Nancy Jackson,Finance,Engineer,Male,56,2019-11-25,108944,7.2,1,5,2018.0,,Performance
+21,Peter Berry,Finance,Engineer,Male,57,2018-11-12,77839,6.9,0,1,,2025-10-04,
+22,Frederick Montgomery,IT,Analyst,Male,52,2025-01-18,28335,9.4,4,1,2024.0,,Layoff
+23,Jeffrey Dennis,Operations,Associate,Male,44,2018-09-28,95040,9.5,12,3,,2025-01-08,Personal
+24,Dustin Blair,HR,Analyst,Male,42,2018-11-16,128375,9.4,12,1,,,Personal
+25,Larry Cooke DDS,Sales,Executive,Male,39,2020-10-30,38096,7.0,30,4,2024.0,2025-01-10,
+26,Dr. John Harris,Marketing,Manager,Male,21,2018-02-03,77536,7.8,20,3,,2024-05-19,Performance
+27,Connie Perry,HR,Manager,Male,31,2025-03-29,121472,9.2,19,3,,,Personal
+28,Rachel Mason,Finance,Executive,Female,48,2022-02-05,74245,10.5,2,4,2024.0,,Performance
+29,Carolyn Townsend,Finance,Executive,Female,52,2017-01-14,51213,8.5,0,2,2018.0,,Layoff
+30,Justin Brown,Marketing,Associate,Male,45,2017-03-08,40989,9.0,23,4,,,
+31,Jessica Henderson,Marketing,Manager,Female,37,2019-02-09,111435,8.7,9,1,,2024-08-14,
+32,Leslie Higgins,Finance,Engineer,Female,55,2018-03-20,121524,6.3,26,1,2020.0,,Layoff
+33,Sarah Dawson,Marketing,Engineer,Female,54,2023-11-12,114553,9.0,3,4,2016.0,,Better Opportunity
+34,Julian Flores,Sales,Analyst,Female,45,2019-09-29,46643,9.5,8,2,2023.0,2023-04-11,Personal
+35,Deborah Keith,Finance,Manager,Female,30,2020-10-29,37646,6.6,2,4,2023.0,2023-09-11,Layoff
+36,Jane Brooks,Operations,Analyst,Female,41,2020-11-15,118083,7.8,12,1,,,
+37,Kevin Anderson,IT,Associate,Female,42,2023-01-20,45177,10.0,16,1,,,Personal
+38,Andrea Page,HR,Associate,Male,21,2017-06-18,79327,8.3,13,2,,,Performance
+39,Susan Webb,Finance,Analyst,Female,44,2024-10-28,51699,8.2,9,4,,,
+40,Brian Alexander,Marketing,Associate,Male,58,2021-10-05,122172,6.2,13,2,,2025-02-15,Better Opportunity
+41,Christy Williams,IT,Analyst,Female,40,2016-04-24,45742,9.5,1,5,,,
+42,Frank Martin,HR,Engineer,Female,44,2022-04-16,75374,7.9,22,3,,2023-03-04,Personal
+43,Lisa Yang,Finance,Engineer,Male,22,2024-08-02,76023,10.0,21,2,2019.0,2024-06-09,Personal
+44,Kayla Gaines,Operations,Manager,Male,25,2021-08-19,64420,7.0,22,1,,,Personal
+45,Stephanie Caldwell,Marketing,Analyst,Male,58,2016-08-24,34887,9.4,22,2,,2025-09-21,
+46,Alyssa Bowen,Sales,Manager,Female,54,2018-03-29,91446,9.4,23,3,2023.0,,
+47,Samantha Lawson,IT,Analyst,Female,22,2024-09-29,39607,7.7,26,2,,,Performance
+48,Anthony Francis,Operations,Manager,Male,55,2020-11-26,99307,7.5,13,4,,2023-11-08,Personal
+49,Vincent Anderson,IT,Manager,Male,36,2016-02-23,112802,10.5,16,1,,2024-10-30,Personal
+50,Jacob Butler,Finance,Engineer,Female,51,2020-09-13,96196,6.3,3,3,,,
+51,Mrs. Michelle Watts MD,Finance,Analyst,Female,23,2016-06-05,77878,10.6,18,2,,2025-04-21,Performance
+52,Lynn Nichols,Marketing,Analyst,Male,45,2022-02-20,109462,7.9,17,3,2021.0,,Performance
+53,Carolyn Vargas,Operations,Associate,Male,55,2017-12-26,137074,6.7,6,5,,,
+54,Lauren Perez,Marketing,Associate,Male,43,2018-05-07,60182,8.5,1,1,,,Performance
+55,Cameron Ford,HR,Associate,Male,52,2022-05-07,33290,10.8,10,4,,2023-04-30,
+56,Brian King,HR,Manager,Female,33,2020-08-02,48646,7.3,15,3,2022.0,2025-06-24,Layoff
+57,Dr. Michelle Carpenter DDS,Sales,Engineer,Male,57,2018-06-11,140268,7.5,16,3,,2023-09-01,Better Opportunity
+58,Steven Perkins,Operations,Engineer,Female,45,2024-03-05,119693,6.9,25,2,2023.0,,Better Opportunity
+59,Nathan Frye,Marketing,Associate,Female,25,2026-01-10,52282,6.6,15,1,2021.0,2025-04-15,Personal
+60,John Cervantes,Finance,Engineer,Female,53,2016-01-26,121142,7.4,0,5,,2023-03-18,Better Opportunity
+61,Dennis Duke,Operations,Manager,Female,52,2018-12-23,106336,6.2,3,5,,,Better Opportunity
+62,Patrick Davila,Finance,Executive,Female,60,2018-04-21,27639,10.2,2,1,2023.0,,Better Opportunity
+63,Debra Gilbert,Marketing,Analyst,Male,46,2022-12-17,48310,8.7,14,1,2020.0,,
+64,David Trujillo,Marketing,Analyst,Male,21,2018-03-27,106357,9.0,19,3,,2023-08-24,
+65,William Turner,Operations,Executive,Male,28,2016-06-12,100518,6.2,3,2,,2025-05-10,Performance
+66,Keith Elliott,HR,Associate,Male,44,2024-04-08,130761,6.5,14,1,2016.0,,Performance
+67,Jack Harrell MD,Marketing,Associate,Male,55,2020-12-30,112707,10.3,29,1,,2025-12-09,Layoff
+68,Nicholas Banks,HR,Manager,Female,50,2016-12-27,85933,8.6,6,3,2022.0,2024-10-03,
+69,Joseph Roth,Marketing,Analyst,Male,21,2020-11-21,55960,10.2,23,5,,,Personal
+70,John Cunningham,Finance,Executive,Male,36,2022-11-06,130821,8.7,4,4,2018.0,2023-07-11,Better Opportunity
+71,Daniel Martinez,Operations,Engineer,Female,38,2017-12-25,94912,11.0,28,1,2018.0,,Layoff
+72,Patrick Williams,Finance,Associate,Female,28,2024-06-18,70902,9.4,17,1,,,Better Opportunity
+73,Brent Kennedy,Operations,Associate,Male,22,2017-05-08,71219,9.2,18,4,2019.0,2025-03-16,
+74,Debbie Alvarado,Operations,Associate,Female,55,2024-10-15,131490,7.9,3,5,,2024-02-23,
+75,Alexis Fields,Operations,Executive,Female,35,2024-08-04,146834,9.0,5,3,,2024-03-20,
+76,Justin Atkinson,Operations,Manager,Female,52,2024-08-24,120962,9.6,17,2,2021.0,,
+77,Brenda Brown,Operations,Manager,Male,46,2017-02-28,136763,6.6,8,5,,,Layoff
+78,Diane Underwood,Operations,Executive,Female,31,2016-12-17,115847,10.1,11,1,,2025-10-24,Layoff
+79,Peter Flores,IT,Executive,Male,25,2021-07-10,119111,7.5,24,3,2021.0,2025-10-22,Better Opportunity
+80,Matthew Carter,Finance,Analyst,Male,26,2023-06-15,26390,8.8,26,1,,,
+81,Joshua Burnett,Finance,Engineer,Male,40,2021-07-26,145324,8.6,11,1,2016.0,,Performance
+82,Joshua Avila,Operations,Engineer,Female,56,2020-02-22,60643,8.1,9,2,,,
+83,Wendy Becker,Sales,Manager,Male,45,2017-04-28,55666,9.1,3,3,,2024-09-06,Better Opportunity
+84,Michael Gilbert,HR,Executive,Male,43,2023-06-01,79780,8.3,13,1,,2024-07-15,Personal
+85,Michelle Hawkins,Operations,Manager,Male,41,2020-03-14,58456,8.0,10,3,,2025-10-20,
+86,Nancy Vance,Marketing,Executive,Male,43,2025-09-28,97812,7.8,0,4,,,Performance
+87,Jessica Moore,Sales,Engineer,Male,23,2023-12-14,120095,7.0,4,4,2018.0,2025-01-17,Performance
+88,Lisa Ramirez,IT,Analyst,Female,47,2021-12-19,41757,7.5,17,2,2021.0,,Performance
+89,Kelly Tran,HR,Executive,Female,56,2025-08-10,58996,10.7,3,3,2021.0,2024-02-11,Performance
+90,Brooke Grant,Finance,Manager,Male,39,2021-04-11,101097,10.7,8,2,2020.0,2023-09-04,Personal
+91,Richard Gay,Marketing,Associate,Male,21,2017-02-27,38606,8.1,17,1,,,Personal
+92,Mary Porter,IT,Engineer,Male,32,2024-04-17,72218,7.7,5,2,,2023-04-21,Better Opportunity
+93,David Hood,HR,Manager,Female,57,2020-02-28,80288,10.4,2,1,,,Better Opportunity
+94,Sarah Mitchell,HR,Manager,Male,57,2017-04-15,111880,7.4,6,4,,2024-08-06,Personal
+95,Anthony Burton,Sales,Associate,Male,44,2020-09-13,43134,7.9,28,1,2024.0,,Performance
+96,Rebecca Flores,IT,Executive,Female,60,2024-09-12,126557,8.7,7,1,,,
+97,Amy Brown,Marketing,Executive,Female,55,2021-12-08,61169,8.0,20,2,,,Better Opportunity
+98,Jennifer Marks,Operations,Executive,Male,36,2017-12-07,46259,9.7,20,4,2024.0,2024-11-12,Better Opportunity
+99,Hunter Jones,IT,Manager,Female,57,2022-07-19,77150,10.5,2,5,2016.0,,Layoff
+100,Stacy Lopez,HR,Manager,Male,28,2023-04-03,41139,9.7,22,3,2021.0,2025-06-25,Personal
+101,Joseph Silva,HR,Associate,Male,33,2019-08-03,146548,7.4,29,4,2023.0,,
+102,Jessica Berry,HR,Associate,Female,36,2020-10-23,140078,10.3,17,4,,,Performance
+103,Diane Williams,Finance,Manager,Female,60,2021-12-22,144071,6.6,20,3,2018.0,2025-04-05,
+104,Christopher Reyes,Sales,Associate,Female,40,2017-03-11,115838,6.1,11,3,2016.0,,Personal
+105,Veronica Barnett,Sales,Manager,Male,21,2020-04-03,113083,9.4,22,4,2018.0,2023-03-01,Personal
+106,Mr. Richard Davis MD,Marketing,Manager,Male,25,2021-03-13,38213,6.2,7,2,2019.0,,
+107,Seth Fisher,HR,Executive,Female,38,2016-03-02,113126,9.1,6,5,,2024-04-01,Better Opportunity
+108,Robert Robertson,Operations,Associate,Female,46,2023-05-06,35969,8.8,15,2,2019.0,2025-10-12,
+109,April Macdonald DDS,Operations,Manager,Male,52,2023-09-04,93140,7.1,10,2,2020.0,,Performance
+110,Scott Garner,Finance,Associate,Female,32,2016-02-10,80067,7.1,6,1,2021.0,2023-08-28,Performance
+111,Charles Montoya,Marketing,Analyst,Female,24,2023-09-28,125678,10.2,6,5,,,Personal
+112,Andrew Lee,Operations,Associate,Female,39,2022-02-07,91114,10.4,8,1,2023.0,,Personal
+113,Andrew Mendez,HR,Associate,Male,42,2020-06-18,41981,10.9,2,5,,,Layoff
+114,Katherine Franco,Sales,Executive,Female,60,2019-08-13,71415,9.4,4,2,2024.0,2025-03-09,Personal
+115,Nicole Taylor,HR,Analyst,Male,40,2016-10-29,102060,8.8,28,3,2020.0,,Layoff
+116,Charles Mendoza,Marketing,Associate,Female,32,2023-02-03,57318,9.8,16,3,2019.0,,
+117,Ana Jackson,IT,Manager,Male,45,2019-09-02,63027,6.3,1,3,,,Performance
+118,Dustin Lewis,HR,Executive,Female,35,2018-11-11,25281,9.5,15,3,,,Performance
+119,Bonnie Bullock,Sales,Associate,Male,39,2023-04-02,136080,7.5,13,2,2017.0,2023-06-05,
+120,Christopher Mckinney,Finance,Analyst,Female,60,2017-08-23,75657,9.8,28,3,,,Performance
+121,April Levy,IT,Manager,Male,30,2018-06-14,108991,9.8,8,5,2022.0,2023-06-29,Personal
+122,Christina Evans,Marketing,Analyst,Female,55,2016-08-15,124823,9.5,11,1,2019.0,,Better Opportunity
+123,Megan Smith,Finance,Engineer,Male,35,2025-04-05,127645,6.6,12,5,,2025-05-17,Layoff
+124,Adam Riley,IT,Analyst,Male,30,2018-05-25,143649,8.8,27,2,,,Layoff
+125,Lacey Salas,Finance,Analyst,Female,60,2016-02-09,70624,9.6,12,5,2019.0,,Layoff
+126,Katie Taylor,HR,Manager,Female,38,2024-12-26,132502,7.9,2,2,2022.0,2023-11-24,Better Opportunity
+127,Michael Duncan,Marketing,Executive,Male,34,2017-05-14,60476,7.0,3,5,,,Better Opportunity
+128,Clayton Gilbert,Finance,Engineer,Male,21,2025-09-19,36872,7.4,0,2,,2024-03-17,Personal
+129,Michael Bryant,HR,Manager,Male,35,2024-12-28,87299,8.3,23,2,,2025-04-19,Performance
+130,Tonya Rodriguez,Operations,Engineer,Female,22,2016-02-22,80685,8.8,15,4,,,Layoff
+131,Joshua Johnson,Marketing,Manager,Male,28,2023-12-23,121148,11.0,1,2,2021.0,2023-07-24,Personal
+132,Troy Long,IT,Executive,Female,49,2023-08-04,95121,7.5,17,1,,,Personal
+133,Ashley Jenkins,Operations,Analyst,Female,53,2024-05-02,149470,9.3,21,3,,,Personal
+134,Sarah Harper,Sales,Engineer,Female,44,2022-05-04,112787,9.6,29,4,,,Performance
+135,William Thompson,Marketing,Engineer,Male,44,2017-06-16,132773,8.4,23,3,,2023-10-01,Personal
+136,Adam Lopez,Operations,Analyst,Female,43,2018-04-04,80010,9.1,30,1,,2024-09-29,Personal
+137,Tina Collins,IT,Manager,Female,58,2023-06-22,46906,7.2,4,4,2016.0,,Personal
+138,Brian Cox,Finance,Executive,Female,34,2022-05-27,80779,8.4,17,3,2018.0,2025-09-04,Performance
+139,Frank Gibbs,Marketing,Executive,Male,50,2019-07-26,29761,7.4,15,1,,,
+140,Steven Kennedy,Finance,Engineer,Male,52,2019-07-10,81223,9.3,17,5,2022.0,2025-11-29,Better Opportunity
+141,Kevin Stewart,Operations,Engineer,Female,31,2021-06-22,100741,9.5,25,4,,2024-03-20,Performance
+142,Stephanie Silva,Marketing,Engineer,Male,40,2024-07-05,88372,7.8,5,4,,2025-02-26,Performance
+143,Angela Johnson,Marketing,Executive,Male,30,2017-06-22,92688,8.5,25,5,,,Layoff
+144,Phillip Leblanc,Marketing,Analyst,Female,56,2019-10-14,74995,9.6,26,4,,,
+145,Tammy Robinson,Finance,Executive,Female,50,2018-06-26,116069,7.7,17,5,2019.0,2023-04-13,Personal
+146,Grace Savage,Marketing,Engineer,Female,23,2017-07-02,73058,7.3,30,4,2024.0,2024-03-30,
+147,Jesse Barker,Finance,Engineer,Female,58,2024-11-06,134696,7.2,0,2,,2024-05-01,Layoff
+148,Charles Ball,HR,Engineer,Female,32,2023-05-26,98883,8.4,15,2,2022.0,2025-05-13,Performance
+149,Cameron Petty,HR,Executive,Male,33,2025-04-20,73466,9.6,23,3,2024.0,2023-09-25,
+150,Jordan Gibson,Operations,Associate,Male,41,2022-05-22,46221,6.9,9,2,2017.0,,Personal
+151,Mindy Cantrell,HR,Engineer,Female,39,2022-02-12,52372,7.5,18,1,,,
+152,Lori Carpenter,Marketing,Analyst,Female,31,2023-06-23,56744,9.4,24,5,,,Better Opportunity
+153,Randall Cline,IT,Manager,Male,57,2025-12-07,41809,8.5,21,5,2019.0,2024-09-24,
+154,Brandon Cole,Sales,Executive,Male,59,2019-05-31,136514,9.5,9,4,,2025-04-29,Layoff
+155,Brianna Escobar,IT,Engineer,Female,53,2019-03-15,130108,9.9,27,3,2024.0,,Personal
+156,William Miller,Operations,Manager,Female,45,2017-04-22,122601,9.3,30,4,2016.0,2024-09-22,Layoff
+157,Joseph Delgado,Finance,Executive,Male,59,2017-05-18,74824,7.8,27,2,,2025-09-09,Better Opportunity
+158,Timothy Herrera,Sales,Analyst,Male,33,2022-06-08,129986,8.2,26,2,,2025-10-06,Personal
+159,Jimmy Duffy,IT,Engineer,Female,48,2024-08-26,47992,8.8,28,3,,2024-01-17,Personal
+160,Nicole Logan,Operations,Associate,Female,49,2017-03-03,111890,6.1,10,4,2024.0,2025-09-09,
+161,Thomas Herrera,Operations,Executive,Female,35,2022-07-28,62122,10.8,3,4,,2023-05-28,Performance
+162,Dawn Mata,Finance,Analyst,Female,55,2017-01-13,139476,9.9,27,5,,2023-09-22,Better Opportunity
+163,Jerry Gonzales,Finance,Executive,Male,44,2022-03-23,68987,6.8,20,2,2020.0,2025-12-06,
+164,Jason Brown,Sales,Executive,Female,40,2020-04-14,48834,10.5,25,1,,,
+165,Paul Anderson,IT,Manager,Male,55,2017-01-13,105431,8.2,25,2,2023.0,,Better Opportunity
+166,Michael Booker,Sales,Executive,Male,23,2020-08-15,134126,8.5,26,4,2017.0,2023-04-22,
+167,Derrick Mcbride,Marketing,Engineer,Female,60,2021-08-20,120753,6.4,30,3,2021.0,,Better Opportunity
+168,Nicholas Davis,Finance,Associate,Female,36,2022-10-14,71183,6.2,27,1,,,Personal
+169,Thomas Turner,Sales,Engineer,Male,23,2017-10-04,33470,9.2,26,3,,2023-05-13,Performance
+170,Teresa Rodgers,Sales,Associate,Male,54,2020-08-29,104338,7.7,17,3,2021.0,2023-10-12,Better Opportunity
+171,Timothy Flores,Operations,Engineer,Male,30,2016-02-25,93797,6.1,15,5,,2023-04-19,Personal
+172,Daniel Salinas,IT,Executive,Female,31,2020-04-30,108938,8.3,8,1,,2023-09-27,Layoff
+173,Justin Heath,HR,Engineer,Female,39,2024-05-14,107801,8.6,15,3,,,Performance
+174,Amy Garcia,HR,Associate,Female,53,2019-07-27,105199,7.3,20,1,2016.0,2025-01-05,Better Opportunity
+175,Gabriel Kline,Operations,Analyst,Female,29,2021-11-09,68011,6.6,25,1,2019.0,,Layoff
+176,Judith Wright,Finance,Manager,Female,43,2016-05-15,120806,6.5,0,3,2017.0,2024-09-09,Better Opportunity
+177,Christina Brown,Finance,Engineer,Female,29,2024-02-29,78105,6.6,7,3,2016.0,2024-01-17,Performance
+178,Rachel Pearson,Operations,Executive,Female,38,2024-09-01,51251,10.6,2,5,2016.0,2024-12-24,Better Opportunity
+179,Jennifer Banks,Finance,Associate,Male,47,2025-09-05,133341,9.8,29,2,,,
+180,Deborah Miles,Operations,Executive,Male,35,2022-07-10,68948,10.6,18,3,,,Personal
+181,Kara Fisher,Sales,Engineer,Male,32,2020-11-02,51862,8.4,28,4,,,Personal
+182,Alison Brown,Marketing,Executive,Male,55,2023-04-07,96155,9.0,13,2,2022.0,,Layoff
+183,Brandy Estrada,Finance,Associate,Male,26,2024-11-21,86759,10.2,3,5,2023.0,,Layoff
+184,Dwayne Fuller,HR,Associate,Male,59,2016-03-28,142799,8.6,28,1,2023.0,,Better Opportunity
+185,Dr. Erica Chavez,Finance,Executive,Male,28,2021-12-16,124531,6.8,8,4,2023.0,,Performance
+186,Lance Bell,HR,Engineer,Female,34,2016-09-15,144296,10.0,21,5,,,Better Opportunity
+187,Jesse Buchanan,Sales,Engineer,Male,58,2024-03-20,51988,9.5,21,1,,2024-10-05,Layoff
+188,Calvin Stevens,Operations,Associate,Male,32,2016-10-30,129739,9.9,27,1,,,Layoff
+189,Emily Richard,Sales,Executive,Female,55,2016-04-22,78524,10.2,15,3,2019.0,,Better Opportunity
+190,Ashley Johnson,Marketing,Manager,Male,50,2022-02-01,35376,6.7,5,2,2022.0,,Layoff
+191,Sharon Young,Finance,Executive,Male,59,2017-06-21,36696,7.2,11,2,,,Better Opportunity
+192,Kelsey Andrade,Operations,Associate,Female,46,2022-11-02,121675,9.9,16,3,2022.0,2025-07-28,Layoff
+193,Rebecca Watkins,Finance,Analyst,Female,31,2020-11-17,126774,10.5,12,1,,,Personal
+194,Allison White,Sales,Analyst,Female,24,2018-09-19,114406,7.4,7,1,2021.0,,
+195,Darryl Thomas,Operations,Manager,Female,43,2018-06-10,53439,8.0,13,3,2023.0,2024-07-06,Personal
+196,Melissa Castro,IT,Engineer,Female,49,2017-11-08,113478,7.8,1,2,2022.0,,Better Opportunity
+197,Michael Brown,IT,Engineer,Male,38,2019-10-23,71520,7.7,3,1,,,Layoff
+198,Daniel Farmer,Sales,Executive,Female,45,2023-03-29,90297,7.7,27,4,2021.0,,Better Opportunity
+199,Christopher Benson,Operations,Manager,Female,34,2025-01-02,48250,7.4,28,5,,,Better Opportunity
+200,Denise Wilson,HR,Manager,Female,56,2023-05-29,77680,8.3,25,5,,2024-11-14,Layoff
+201,Taylor Flores,IT,Manager,Male,28,2020-12-21,80294,6.3,5,3,,2023-11-30,Personal
+202,Kevin Todd,HR,Engineer,Female,33,2021-11-09,133721,7.5,16,3,,,Layoff
+203,Samantha Washington,Marketing,Associate,Male,34,2022-04-27,92517,7.2,1,1,2021.0,2025-11-11,
+204,Rose Diaz,Finance,Executive,Male,24,2023-05-07,87784,7.7,1,2,2017.0,,Personal
+205,Travis Graham,Operations,Associate,Male,55,2019-08-17,96952,10.7,7,3,2022.0,,Layoff
+206,Ellen Ballard,Operations,Executive,Male,58,2022-07-09,88309,9.6,16,4,2023.0,2025-03-30,Layoff
+207,Jerry Johnson,HR,Analyst,Female,41,2021-10-31,70922,9.4,6,3,2018.0,,Better Opportunity
+208,David Webb,IT,Executive,Male,28,2021-12-18,103261,6.7,22,4,2017.0,,Better Opportunity
+209,Tiffany Rodriguez,HR,Engineer,Female,43,2017-01-10,55103,7.0,28,1,,,Performance
+210,Jacob Blackburn,IT,Analyst,Male,45,2024-04-04,47239,8.4,7,5,,,Performance
+211,Aaron Snow,Marketing,Manager,Male,59,2020-03-15,68890,6.9,6,5,,2024-05-10,Better Opportunity
+212,Timothy Tran,HR,Analyst,Male,38,2016-04-24,63698,7.4,13,2,2022.0,2024-05-09,Performance
+213,Jessica Farley,Marketing,Analyst,Female,37,2022-01-27,96001,6.3,1,3,2024.0,2025-06-29,Personal
+214,Jason Chen,Finance,Engineer,Male,38,2020-07-30,142294,7.7,20,5,2017.0,2024-08-19,Personal
+215,Latasha Mclaughlin,HR,Manager,Male,25,2021-04-09,26077,10.7,3,1,2016.0,2023-09-26,Performance
+216,Tamara Hansen,Sales,Engineer,Male,60,2025-10-04,35764,8.1,27,1,2023.0,,Layoff
+217,Douglas Gallagher,Operations,Associate,Male,29,2016-12-07,60531,7.0,16,2,2021.0,,Better Opportunity
+218,Martha Henderson,Sales,Associate,Male,59,2019-07-25,41226,8.0,15,2,2021.0,2025-05-22,Performance
+219,Jacqueline Colon,Marketing,Executive,Female,48,2021-03-03,143885,9.1,17,1,2018.0,2025-05-15,Personal
+220,Lynn Henderson,HR,Engineer,Female,51,2025-02-05,38568,6.1,18,2,2023.0,2025-07-16,Layoff
+221,Megan Patel,Sales,Engineer,Male,59,2021-09-23,96279,10.0,8,1,2020.0,,Personal
+222,Charles Allison,HR,Associate,Female,25,2019-03-27,100585,9.1,11,4,2024.0,,Personal
+223,Kimberly Simpson,Sales,Manager,Female,21,2021-09-07,64401,9.2,22,2,,2023-06-20,Personal
+224,Erik Allen,Operations,Associate,Female,33,2023-10-14,94745,9.8,23,5,2022.0,2025-05-30,Personal
+225,Brian Sexton,Finance,Analyst,Male,46,2025-08-13,124462,10.3,2,2,,,Personal
+226,Virginia Santiago,HR,Executive,Male,29,2024-06-07,60742,10.2,19,2,2024.0,,Performance
+227,Javier Wright,Marketing,Manager,Female,58,2023-01-19,134611,7.4,10,5,,,Layoff
+228,Kristen Alexander,Operations,Executive,Female,24,2022-09-05,70083,10.7,27,5,,2024-08-29,
+229,Edward Charles,Sales,Associate,Male,60,2023-05-26,70698,10.5,4,2,,,
+230,Anthony Dunlap,Marketing,Analyst,Male,42,2021-03-19,145525,9.4,16,2,,2024-01-03,Layoff
+231,Lauren Wall,Finance,Manager,Male,51,2023-04-18,93684,9.0,14,3,,,Layoff
+232,Shelby Rangel,HR,Executive,Female,50,2024-06-05,90972,10.5,10,1,,,Performance
+233,Autumn Campbell,HR,Engineer,Male,53,2021-09-10,149668,6.3,30,3,2023.0,2024-10-15,
+234,Kimberly Tran MD,Operations,Manager,Male,30,2018-06-10,90998,8.2,1,4,,2025-10-15,
+235,Rodney Carlson,Finance,Analyst,Female,43,2016-10-04,102111,10.7,21,1,,2023-07-25,Performance
+236,Johnny Ward,HR,Manager,Female,54,2018-10-14,39245,7.0,20,5,,,
+237,John Miller,IT,Manager,Female,56,2022-12-16,118398,6.9,0,2,,,Better Opportunity
+238,Lori Ray,IT,Analyst,Female,38,2016-07-02,73113,8.0,19,3,2020.0,2023-07-25,Better Opportunity
+239,Devin Robles,Marketing,Manager,Male,55,2025-02-14,54940,7.8,1,3,,,
+240,Pedro Ortiz,IT,Associate,Male,30,2025-10-02,128883,9.2,9,1,2022.0,,Performance
+241,Rachel Rodriguez,Sales,Engineer,Female,53,2019-01-22,130510,8.8,13,1,,2023-10-09,Better Opportunity
+242,Ricardo Hayes,Finance,Manager,Male,44,2018-12-21,102812,9.5,6,3,,,Layoff
+243,Willie Thomas,Sales,Executive,Male,41,2022-11-04,78949,7.6,19,5,,,Better Opportunity
+244,Jennifer Fields,Operations,Analyst,Female,35,2021-10-08,61419,9.7,2,2,2023.0,2025-05-10,Personal
+245,Jason Taylor,Marketing,Manager,Female,41,2024-03-21,65275,8.3,29,5,2018.0,,Personal
+246,Peter Goodwin,HR,Executive,Male,44,2025-02-06,147084,8.1,18,3,,,
+247,Eric Carter,IT,Analyst,Female,53,2022-08-03,57640,8.9,17,3,2023.0,,Better Opportunity
+248,Derrick Butler,Marketing,Analyst,Male,38,2016-06-10,52106,6.6,21,5,2016.0,,Performance
+249,Mark Harvey,Marketing,Associate,Male,39,2025-04-28,55884,7.3,16,1,2024.0,,Performance
+250,Jennifer Jones,Sales,Associate,Female,31,2016-06-28,109413,9.7,3,5,2023.0,,Layoff
+251,Julie Wolf,IT,Analyst,Female,48,2017-01-20,111890,10.3,4,2,2024.0,,Performance
+252,Stephen Nguyen,Finance,Manager,Female,32,2019-11-05,107121,8.3,29,3,,,Personal
+253,Christopher Walters,HR,Engineer,Female,21,2022-03-31,143847,9.8,1,2,,,Personal
+254,Regina Reyes,HR,Engineer,Male,26,2022-08-02,70711,8.2,9,5,2024.0,,Layoff
+255,Troy Stark,Marketing,Associate,Female,23,2024-12-30,105300,10.1,5,5,2017.0,,Better Opportunity
+256,Don Vaughn,Finance,Analyst,Male,54,2024-07-10,101352,6.3,5,2,2018.0,,Layoff
+257,Keith Mercado,Sales,Manager,Male,39,2018-12-12,49871,7.0,0,1,,2023-02-14,Layoff
+258,Brian Romero,Finance,Associate,Female,46,2025-09-29,82116,9.2,23,2,,2023-02-18,Layoff
+259,Ryan Patterson MD,Finance,Executive,Male,42,2017-09-26,78827,8.0,7,4,2022.0,,Layoff
+260,Daniel Stewart,HR,Analyst,Female,37,2022-05-24,80950,7.6,1,5,,2024-09-01,
+261,Amy Wiley,Sales,Analyst,Male,48,2021-11-03,125624,11.0,26,4,,2025-12-31,Performance
+262,Raymond English,Sales,Associate,Male,49,2016-03-27,85277,11.0,19,2,2017.0,2024-03-14,
+263,Vanessa Thomas,Sales,Executive,Female,33,2016-01-25,38359,8.1,3,4,2020.0,,Performance
+264,Dr. Megan Reeves,Operations,Associate,Female,23,2022-08-07,75129,7.1,21,1,,2025-10-09,Personal
+265,Ashley Summers,Marketing,Manager,Male,49,2017-04-01,71237,9.6,2,5,2018.0,,
+266,Jerry Shelton,Finance,Manager,Male,35,2023-02-27,33923,10.7,12,2,,,Performance
+267,Paul Bailey,HR,Executive,Male,60,2021-05-26,148665,7.6,5,1,,2025-03-05,Personal
+268,Jennifer Miranda,Sales,Executive,Female,33,2018-05-07,108616,9.8,30,5,2018.0,,Layoff
+269,Mr. Samuel Ramsey,Sales,Executive,Female,46,2022-07-01,112238,7.2,18,5,2016.0,,
+270,Douglas Moore,IT,Engineer,Female,27,2018-04-17,123385,10.0,8,5,2022.0,2025-12-18,Better Opportunity
+271,Wesley Griffin,Operations,Executive,Female,57,2017-07-14,45335,9.3,18,5,2019.0,2023-04-09,Personal
+272,Lisa Ortiz,HR,Executive,Female,45,2018-05-01,110927,9.3,20,4,2022.0,2024-05-19,Better Opportunity
+273,Christopher Roberson,IT,Analyst,Male,32,2017-08-12,107543,7.1,16,5,2016.0,,
+274,Mark Coleman,IT,Executive,Female,28,2025-04-12,72790,6.1,1,2,,2025-10-30,Personal
+275,Edward Collins,Marketing,Executive,Female,31,2018-09-18,69462,7.4,14,5,,2023-06-14,
+276,Lindsay Mitchell,Sales,Manager,Male,38,2017-04-24,106739,8.9,15,4,,,Better Opportunity
+277,Diane Maldonado,Finance,Manager,Male,51,2023-04-10,104583,10.6,2,5,,,Personal
+278,Amy Russell,Operations,Engineer,Female,53,2017-04-11,135707,7.7,4,2,,2024-10-23,
+279,Kelly Zhang,Sales,Associate,Female,22,2021-10-07,31992,10.1,24,5,,2025-02-16,Performance
+280,Jill Bennett,Finance,Engineer,Female,29,2025-10-30,84699,8.9,2,5,,2025-04-20,Performance
+281,Katherine Campbell,Operations,Analyst,Female,58,2022-07-19,145042,9.0,29,1,,2024-05-16,Personal
+282,Alexander Williams,Operations,Analyst,Female,34,2017-02-03,90581,7.8,15,4,2022.0,2024-09-26,
+283,Amy Bennett,IT,Engineer,Female,35,2025-12-15,62611,7.3,29,3,2023.0,2024-11-12,Performance
+284,Christopher Baldwin,HR,Engineer,Male,55,2022-01-22,57755,9.8,25,3,2016.0,,
+285,Donna Sanders,IT,Executive,Female,32,2023-01-12,96730,8.3,13,3,,2023-06-09,
+286,Jeremy Rodriguez,Finance,Manager,Male,25,2017-11-01,41729,9.3,18,1,2024.0,,Performance
+287,Becky Garcia,IT,Manager,Female,46,2018-04-21,120399,9.0,8,5,2019.0,,Better Opportunity
+288,John Myers,Sales,Associate,Male,47,2021-08-09,45671,9.8,17,3,2017.0,2025-02-02,Layoff
+289,Mary Smith,Marketing,Engineer,Male,59,2023-12-14,66671,9.0,6,5,,2025-05-07,Personal
+290,Valerie Jenkins,Operations,Manager,Female,22,2025-03-24,127394,9.5,13,5,2022.0,2023-03-12,Personal
+291,Kristin Castro,Marketing,Engineer,Female,59,2025-04-30,142477,11.0,3,1,2023.0,,Layoff
+292,Thomas Sanchez,IT,Executive,Female,55,2022-05-14,69082,8.0,30,3,2017.0,2024-01-21,Performance
+293,Marie Thompson,IT,Associate,Female,47,2017-12-05,75579,10.3,21,4,,,Performance
+294,Carolyn Rodriguez,Marketing,Associate,Male,53,2023-10-03,132452,6.3,12,4,2020.0,,
+295,Leah Cross,IT,Associate,Female,52,2022-05-04,144124,10.5,9,4,,,Layoff
+296,Crystal Cooper,Sales,Executive,Male,54,2024-07-20,102639,7.9,2,2,2017.0,2023-06-20,
+297,Jimmy Knapp,Sales,Associate,Female,58,2025-04-04,71300,7.1,16,4,2022.0,,Personal
+298,Garrett Huber,Operations,Executive,Female,30,2023-03-27,122237,8.2,26,2,,,Performance
+299,Heather Crosby,Marketing,Engineer,Male,51,2016-05-04,52350,10.2,22,4,,2025-04-23,Personal
+300,Robert French,HR,Executive,Male,34,2024-06-06,122354,7.7,25,3,2021.0,,Better Opportunity
+301,Meagan Hansen,HR,Manager,Male,45,2020-05-19,82333,8.8,14,3,2023.0,2025-10-02,Performance
+302,Danielle Green,HR,Manager,Male,40,2024-12-16,54188,9.4,17,2,,,Performance
+303,Larry Wallace,Marketing,Engineer,Female,39,2023-02-22,79509,10.0,7,4,2020.0,,Layoff
+304,Christopher Lewis,Sales,Associate,Female,31,2023-06-27,57081,8.7,11,1,,2025-09-28,Performance
+305,Nicholas Kim,IT,Executive,Male,29,2016-08-19,73099,8.3,19,5,2019.0,,Layoff
+306,Raymond Morales,Marketing,Analyst,Female,30,2016-12-20,99720,8.4,21,2,,,Better Opportunity
+307,Thomas Mcclain,Operations,Engineer,Male,41,2018-09-30,124891,8.4,23,2,2020.0,,Personal
+308,John Johnson,Finance,Engineer,Female,30,2020-06-10,98839,6.2,16,4,,2023-11-05,Layoff
+309,Ruth Singh,HR,Executive,Female,23,2016-11-22,81453,10.0,9,2,,2023-05-18,Layoff
+310,Elaine Thomas,HR,Executive,Male,33,2020-05-04,115248,9.5,19,4,2024.0,2025-03-30,Layoff
+311,Amanda Campbell,Operations,Executive,Male,33,2019-10-19,34530,10.3,8,5,2020.0,,Better Opportunity
+312,Donald Silva,HR,Associate,Female,59,2025-01-28,45747,6.0,10,2,2023.0,,Personal
+313,Lance Gomez,HR,Engineer,Female,21,2023-07-08,38234,10.0,7,2,,2025-03-11,Layoff
+314,Ivan Brady,HR,Manager,Female,26,2017-07-18,27034,9.3,6,5,,2024-03-11,Better Opportunity
+315,Tara Robinson,Operations,Executive,Female,58,2021-03-08,133327,10.2,8,5,,2025-09-24,
+316,Charles Gonzales,Marketing,Associate,Female,36,2022-08-04,26733,9.1,26,2,2021.0,2023-06-25,
+317,Ronald Bishop,Sales,Analyst,Male,26,2017-01-19,77875,9.3,2,3,2019.0,2025-04-17,Personal
+318,Eric Trujillo,Sales,Executive,Female,57,2022-09-25,138379,6.2,1,3,,,Better Opportunity
+319,Charles Browning,IT,Executive,Male,21,2017-12-03,88182,7.5,8,5,,,Better Opportunity
+320,Peter Barnes,HR,Analyst,Female,24,2020-04-09,100049,9.3,28,4,,,Better Opportunity
+321,Joshua Rojas,HR,Analyst,Female,48,2017-08-15,37095,8.1,23,4,2018.0,,Layoff
+322,Michele Proctor,Finance,Executive,Female,45,2016-10-25,128406,7.5,8,3,2018.0,,
+323,Philip Clark,HR,Associate,Male,27,2020-03-27,95007,6.6,2,2,2018.0,,
+324,Mr. Jeremy Johnson,HR,Associate,Male,45,2018-09-18,132326,8.5,28,3,,,Better Opportunity
+325,Robert Morales MD,Sales,Executive,Male,34,2022-02-02,135978,8.6,9,3,2022.0,,
+326,Melissa Valentine,Operations,Analyst,Female,59,2016-04-16,72881,6.3,1,1,,2024-04-26,Layoff
+327,Brian Pearson,Finance,Associate,Male,42,2023-09-03,130142,7.2,6,1,,2024-01-26,Performance
+328,Donald Warren,Operations,Manager,Male,41,2017-01-25,105563,10.9,3,3,,,Layoff
+329,Connor Bennett,Marketing,Engineer,Female,34,2025-07-22,41236,8.5,3,1,,,Better Opportunity
+330,Heather Maddox,Sales,Engineer,Female,48,2018-05-28,54174,9.4,28,5,,2023-12-21,Personal
+331,Aaron Morales,HR,Engineer,Female,23,2021-12-12,141504,9.5,26,2,,,
+332,Randy Stephens,HR,Executive,Female,47,2020-05-04,130983,8.6,15,3,,,Personal
+333,Michael Vazquez,Sales,Engineer,Female,39,2023-03-24,117495,6.8,11,4,,2023-11-29,
+334,Michelle Cantrell,IT,Engineer,Male,49,2023-05-12,100691,8.2,10,4,,2025-01-23,Layoff
+335,Michael Kirk MD,Finance,Associate,Female,26,2016-05-30,72221,8.4,3,1,2019.0,2025-07-02,Layoff
+336,Matthew Stewart,HR,Engineer,Female,51,2016-12-03,137829,8.4,8,5,2016.0,2025-06-18,Layoff
+337,Jennifer Dawson,Sales,Manager,Male,57,2025-02-14,94341,6.7,23,5,,,Personal
+338,Lauren King,Operations,Manager,Male,36,2025-12-09,110566,7.8,21,3,,2023-05-27,Performance
+339,Nicholas Ortega,Sales,Manager,Female,31,2020-07-03,139138,10.1,9,4,,,Better Opportunity
+340,Donna Burton,HR,Associate,Male,49,2019-04-06,146180,8.6,28,1,2016.0,2025-09-17,Layoff
+341,Russell Haynes MD,Operations,Manager,Male,60,2023-08-23,123302,10.8,6,3,,,Performance
+342,Gabriela Bradshaw,Sales,Associate,Male,40,2021-01-27,62996,9.6,16,3,2017.0,2023-06-15,
+343,Latasha Heath,Sales,Analyst,Female,49,2016-12-29,55046,8.9,1,1,2024.0,,Personal
+344,John Padilla,Finance,Manager,Male,41,2017-03-08,123982,10.6,7,4,,2024-11-30,
+345,Chase Rios,Sales,Associate,Female,59,2018-07-13,36556,8.3,25,2,,2023-04-18,Performance
+346,Carl Leach,HR,Associate,Female,29,2021-01-05,84700,9.0,23,5,,,
+347,Jeremy Hansen,Finance,Analyst,Male,35,2021-10-07,106504,8.8,30,5,2016.0,,Layoff
+348,Tammy Gray,IT,Analyst,Female,22,2020-06-10,66997,10.6,24,3,,2025-10-05,Performance
+349,Lawrence Johnson,HR,Manager,Female,59,2017-12-22,88133,10.6,24,2,2023.0,,
+350,Deborah Mayo,HR,Manager,Female,54,2025-11-12,129390,9.8,29,1,,,Performance
+351,Brianna Williams,IT,Associate,Male,57,2017-10-21,98822,8.1,10,1,,,Layoff
+352,Heidi Goodman,Operations,Engineer,Female,51,2025-04-10,43271,6.1,6,5,,,
+353,Justin Schneider,IT,Analyst,Male,48,2023-03-28,76032,6.5,18,1,2016.0,2023-03-11,Performance
+354,Stacy Jennings,IT,Associate,Male,27,2020-01-26,90739,8.9,27,4,,,
+355,Mark Mcdonald,Sales,Engineer,Male,24,2018-07-03,45594,9.2,25,2,2018.0,,
+356,Michael Fletcher,Finance,Manager,Female,45,2026-01-07,39835,9.1,3,4,,2025-10-05,Personal
+357,Jose Stewart,HR,Associate,Male,24,2021-07-30,105461,10.4,14,4,,,Personal
+358,Jason Green,Operations,Associate,Female,60,2017-03-10,135236,6.5,19,4,,2024-12-15,Personal
+359,Tara Ramirez,HR,Engineer,Female,50,2024-12-10,25515,9.0,4,3,2022.0,2025-04-27,Performance
+360,Amy Brown,Marketing,Analyst,Female,39,2025-08-13,131292,6.6,30,1,,,Better Opportunity
+361,Ruth Stevens,Marketing,Analyst,Female,23,2016-03-22,137045,7.6,8,5,,,
+362,Michelle Miller,Finance,Analyst,Female,25,2023-12-14,32123,8.0,3,5,2016.0,,
+363,Breanna Hammond,Sales,Associate,Male,43,2019-06-20,66684,6.7,8,2,,2025-09-25,
+364,Lauren Maynard,Operations,Analyst,Male,59,2019-02-18,130824,10.0,19,5,2019.0,,Layoff
+365,Peter Newton,Operations,Analyst,Male,28,2019-07-18,28695,6.7,22,4,2022.0,2024-03-05,Better Opportunity
+366,Juan Monroe,Operations,Engineer,Male,56,2023-06-23,51940,10.3,22,3,2016.0,,
+367,Ryan Collins,Marketing,Associate,Female,36,2024-12-30,111150,9.1,17,3,2019.0,,Better Opportunity
+368,Clinton Mejia,Marketing,Engineer,Male,37,2017-02-01,73877,9.8,2,3,,2024-12-13,Performance
+369,Jonathan Logan,Finance,Engineer,Female,37,2022-10-31,121091,9.5,19,1,2023.0,2023-04-22,Better Opportunity
+370,Morgan Diaz,Finance,Manager,Male,46,2022-09-15,143860,9.5,5,3,2020.0,,Performance
+371,Carrie Wilson,Operations,Associate,Female,45,2017-04-05,33318,8.8,3,5,,2023-02-17,Layoff
+372,Emily Weber,Finance,Engineer,Female,23,2020-01-23,97239,6.4,29,1,2018.0,2024-05-28,Better Opportunity
+373,Leslie Callahan,Finance,Executive,Female,28,2018-12-19,80822,8.9,18,4,,,Performance
+374,Kiara Greene,Finance,Engineer,Female,38,2023-11-18,125259,6.3,4,4,2023.0,2025-03-08,Performance
+375,Elaine Martin,Sales,Engineer,Male,38,2017-04-16,100646,8.2,19,5,,2023-11-01,
+376,Jonathan Bailey,Finance,Manager,Female,32,2023-04-11,76488,7.6,18,4,2022.0,2024-09-24,Better Opportunity
+377,Sara Colon,Finance,Engineer,Female,57,2021-08-08,131806,8.5,11,2,,2025-06-28,
+378,Mr. Allen Weber,HR,Executive,Male,60,2021-07-29,60506,8.3,14,5,2016.0,2024-02-12,Personal
+379,Carrie Prince,IT,Executive,Male,29,2022-09-20,68489,10.0,9,5,2019.0,,Better Opportunity
+380,Bradley Moore,Finance,Executive,Male,21,2024-11-30,128177,7.5,22,4,,,Better Opportunity
+381,Andrew Sanchez,Marketing,Manager,Male,59,2017-06-21,35366,7.7,29,1,,2024-08-25,Better Opportunity
+382,Dennis Kelly,Sales,Manager,Male,39,2016-09-24,84222,8.2,14,5,,2025-07-25,Personal
+383,Rebecca Glover,Operations,Associate,Female,32,2025-09-16,147640,6.9,20,1,,2025-02-28,Better Opportunity
+384,Amanda Lewis,Marketing,Analyst,Female,41,2022-03-12,72455,10.6,9,3,2021.0,,Personal
+385,April Price,Sales,Analyst,Female,38,2019-10-16,116897,6.5,1,4,2019.0,2023-11-11,Performance
+386,Christopher Torres,HR,Analyst,Female,56,2019-04-08,46068,7.4,14,4,,2024-05-16,
+387,Anthony Macdonald,Marketing,Manager,Female,52,2016-07-06,89483,9.2,11,1,2021.0,2024-02-20,Performance
+388,Kelly Jensen,HR,Associate,Female,31,2019-04-12,148905,7.5,6,1,2016.0,,Personal
+389,Amber Willis,Marketing,Engineer,Male,30,2020-03-06,136915,9.4,16,5,,,Better Opportunity
+390,Maureen Hansen,Finance,Associate,Male,43,2021-06-15,137777,10.1,22,2,2017.0,,
+391,Brittany Davidson,Sales,Manager,Female,25,2022-01-28,136383,10.4,1,1,,,
+392,David Solis,IT,Executive,Male,30,2019-08-01,25308,8.9,2,5,,2026-01-07,
+393,Clifford Andrews,IT,Associate,Male,24,2022-05-07,66015,8.4,27,2,2018.0,2023-04-29,Performance
+394,Lisa Johnson,Marketing,Executive,Male,46,2023-06-29,55164,9.3,30,4,2023.0,2024-07-15,Personal
+395,Kerri Yang,Sales,Associate,Male,55,2024-05-19,147532,8.0,20,5,,2025-03-11,Performance
+396,Darren Lamb,HR,Analyst,Male,28,2023-06-15,51654,9.7,20,1,2017.0,,Performance
+397,Andrew Brown,Sales,Associate,Male,27,2025-11-23,116338,7.9,24,3,2020.0,2025-05-06,
+398,Dylan Holmes,HR,Engineer,Male,34,2016-09-03,95137,6.6,21,1,2016.0,2023-08-23,Better Opportunity
+399,Angela Petty,Marketing,Analyst,Female,32,2022-10-18,77981,7.5,21,3,,2024-11-24,Personal
+400,Taylor Sheppard,Finance,Executive,Female,43,2018-09-25,67591,6.3,3,4,,,Performance
+401,Jordan Wilson,Sales,Analyst,Male,50,2017-08-23,134804,6.4,13,4,2018.0,2025-11-14,Personal
+402,Michael Morgan,Operations,Executive,Male,35,2022-09-23,122594,8.8,14,2,2019.0,,Layoff
+403,Shelia Michael,Marketing,Manager,Female,57,2018-02-05,51853,7.1,0,1,2023.0,,
+404,Lance Bender,Operations,Associate,Female,48,2017-12-30,83933,8.5,10,3,2022.0,2023-02-08,
+405,Ryan Williams,HR,Manager,Male,38,2023-03-05,148235,8.1,26,4,2016.0,,Performance
+406,Erin Rodriguez,Sales,Executive,Male,57,2019-06-18,128961,7.1,4,3,,,Performance
+407,Travis Mcpherson,HR,Executive,Male,49,2017-01-23,64130,6.3,18,4,,,Layoff
+408,Kathleen Blake,Sales,Analyst,Female,53,2023-03-19,128501,7.2,26,5,,2024-07-05,Personal
+409,Michelle Martin,IT,Engineer,Male,40,2017-03-09,142422,7.7,15,5,,2025-03-13,Layoff
+410,Cindy Diaz,Operations,Analyst,Male,50,2021-03-21,84555,8.6,24,4,2016.0,,
+411,John Barker,IT,Executive,Male,57,2021-02-14,122636,7.0,22,2,,,Better Opportunity
+412,Donald Howell,HR,Analyst,Male,48,2023-07-25,139780,9.2,23,3,,,Performance
+413,Tiffany Jefferson,IT,Engineer,Male,41,2020-01-17,81336,9.8,17,5,2022.0,,Personal
+414,Rebecca Gonzalez,Finance,Associate,Male,45,2016-02-26,45401,10.5,4,4,2018.0,,Better Opportunity
+415,John Mullins,Finance,Manager,Male,58,2025-06-19,100654,6.2,18,1,,2025-09-13,Personal
+416,Susan Salazar,Sales,Executive,Female,53,2018-11-30,85203,7.5,7,4,2018.0,2024-10-12,Layoff
+417,Tammie Robinson,Operations,Engineer,Female,40,2023-10-26,148473,10.9,15,5,,,Performance
+418,Stephen Hendrix,Operations,Engineer,Male,53,2021-01-17,147053,11.0,23,4,2023.0,2024-11-21,Better Opportunity
+419,Lisa Adams,Finance,Executive,Male,52,2018-01-17,89490,10.1,10,3,2017.0,,Layoff
+420,Christina Vasquez,Sales,Executive,Female,41,2023-06-01,148025,10.4,17,5,2017.0,,Performance
+421,Bernard Waters,Operations,Analyst,Male,48,2021-09-23,122542,6.0,10,2,,,Better Opportunity
+422,Susan Rollins,IT,Engineer,Female,22,2025-05-28,103091,8.2,5,2,,,Layoff
+423,Brandon Gray,Marketing,Engineer,Male,40,2019-10-22,58455,7.1,10,1,,,Performance
+424,David Walker,Operations,Analyst,Female,26,2024-12-16,126533,10.6,18,4,2016.0,2024-11-23,Personal
+425,Hannah Norris,Operations,Analyst,Male,29,2018-10-09,126786,9.8,3,2,,2025-09-26,Better Opportunity
+426,Kenneth Lynch,Marketing,Associate,Male,59,2022-12-19,109002,7.6,11,1,,2023-08-28,
+427,Tracey Walton,Operations,Engineer,Male,29,2019-05-01,104472,7.6,29,1,2016.0,,Layoff
+428,Jennifer Torres,Finance,Engineer,Female,32,2018-09-08,130814,7.0,0,2,,,Layoff
+429,Matthew Zhang,Operations,Manager,Male,50,2018-10-10,43057,10.6,24,2,2019.0,,Personal
+430,Shelly Gonzales,Sales,Engineer,Female,45,2023-02-17,138385,8.2,24,3,,2024-10-01,Personal
+431,Tiffany Williams,Finance,Executive,Male,22,2019-01-11,123127,9.1,13,3,2022.0,,Layoff
+432,James Morris,Operations,Analyst,Female,26,2021-02-11,77597,7.3,20,5,,2025-05-08,Performance
+433,Katelyn Richardson,Marketing,Manager,Male,39,2020-11-29,86265,8.9,16,2,2020.0,,Better Opportunity
+434,Mrs. Erin Allen,IT,Executive,Male,46,2017-02-27,146351,8.3,2,1,2020.0,,Personal
+435,Raymond Nelson,Sales,Analyst,Female,58,2019-02-15,101759,8.0,2,3,2017.0,,
+436,Diane Bradford,HR,Executive,Male,28,2025-06-15,65434,9.5,4,3,2016.0,2024-05-10,Personal
+437,Teresa Figueroa,Sales,Executive,Female,32,2025-11-02,130671,7.1,13,5,,2025-02-12,Layoff
+438,Teresa Wilson,IT,Manager,Female,23,2018-12-12,83383,7.2,24,2,,2025-07-04,Better Opportunity
+439,Jesse Best,Finance,Executive,Male,39,2025-06-21,96000,10.3,27,3,2016.0,2024-09-28,Layoff
+440,Charles Rios,HR,Manager,Male,50,2022-04-19,52774,8.2,25,1,,,Personal
+441,Tanya Cobb,Sales,Executive,Female,48,2018-10-06,114956,7.2,12,4,2018.0,2025-08-07,Performance
+442,John Martinez,Finance,Analyst,Male,51,2019-01-06,133747,10.2,3,5,2016.0,,Layoff
+443,Rita Kirby,Marketing,Analyst,Female,52,2022-03-14,106433,8.1,15,5,2024.0,,Personal
+444,James Page,Sales,Associate,Male,23,2016-02-06,64362,7.0,4,2,,2023-11-12,Performance
+445,Derek Garcia,Marketing,Manager,Male,45,2022-08-06,110520,7.3,28,5,2020.0,,Personal
+446,Brian Flores,Marketing,Executive,Male,27,2016-05-08,34527,9.8,9,4,,2023-02-08,Personal
+447,Christopher Shields,Sales,Manager,Male,27,2025-12-13,30168,6.0,0,5,,2023-01-24,Layoff
+448,Daniel Morris,Sales,Manager,Female,34,2022-05-24,116097,9.0,0,3,,2024-07-06,Better Opportunity
+449,John Castillo,Operations,Associate,Male,47,2024-11-14,107646,10.5,7,1,2019.0,2025-07-17,
+450,Regina Haney,Finance,Associate,Male,31,2024-12-30,81387,7.6,8,1,,2023-04-27,Better Opportunity
+451,David Smith,Sales,Analyst,Female,48,2016-01-20,96773,8.3,14,3,2019.0,,Better Opportunity
+452,Christina Ford,Finance,Executive,Female,33,2018-03-09,42044,8.3,2,5,,,Better Opportunity
+453,Kenneth Woods,Marketing,Associate,Male,38,2018-10-15,78347,9.9,15,5,2016.0,,Personal
+454,Mrs. Kristina Brown,Sales,Manager,Female,31,2025-05-24,149874,6.7,0,4,2022.0,2024-09-10,Layoff
+455,Christina Holloway,Finance,Executive,Male,22,2019-05-24,78888,10.4,29,1,,,Personal
+456,Ann Boyd,HR,Analyst,Female,25,2021-01-18,95787,10.9,6,4,,2023-08-27,Performance
+457,Erin Smith,Operations,Analyst,Female,29,2023-04-24,30155,6.5,16,4,2018.0,2024-06-15,
+458,Maria Brown,Marketing,Associate,Male,60,2024-09-08,115759,8.2,0,3,2023.0,,Performance
+459,Victoria Collins,Sales,Engineer,Male,34,2021-11-10,59113,10.4,13,5,2019.0,,Performance
+460,Natalie Howard,IT,Engineer,Female,46,2016-01-23,132257,8.6,1,1,,,Performance
+461,Laura Lowe,HR,Associate,Female,43,2022-10-13,132557,9.0,22,4,2024.0,2023-10-27,Better Opportunity
+462,Eric York,Finance,Associate,Male,39,2021-08-10,104937,8.1,13,5,,2024-03-19,
+463,Faith Carpenter,HR,Associate,Male,53,2019-12-08,51400,7.7,16,3,,,
+464,Jack Hall,Sales,Manager,Female,40,2019-06-15,97624,7.0,0,1,,,Layoff
+465,Tabitha Ramirez,IT,Manager,Female,21,2024-03-04,96373,6.4,22,2,,2023-11-28,Performance
+466,Carlos Berry,Marketing,Manager,Male,36,2025-08-04,77465,10.4,18,1,,,Layoff
+467,Virginia Carter,HR,Analyst,Female,54,2020-05-01,90754,6.2,14,4,2017.0,,
+468,Kyle Watkins,Marketing,Engineer,Male,51,2025-09-02,61175,9.9,6,3,2017.0,2023-03-06,Layoff
+469,Deborah Lopez,Sales,Executive,Male,26,2025-06-11,135310,8.3,18,2,2017.0,,Layoff
+470,Brian Hartman MD,IT,Associate,Male,57,2024-09-22,48707,8.7,24,4,2018.0,,
+471,Kelli Jackson,Sales,Executive,Female,56,2025-12-19,115826,8.7,10,4,,,Layoff
+472,Kayla West,IT,Analyst,Male,42,2022-04-25,48359,9.8,24,4,,2024-06-13,Performance
+473,Alyssa Hill,Operations,Associate,Female,28,2024-09-17,40040,10.5,0,4,,,Better Opportunity
+474,Melissa Garcia,Operations,Associate,Male,37,2020-02-23,57434,8.7,23,5,,2023-04-09,Performance
+475,Jennifer Brown,Sales,Associate,Male,34,2017-04-28,132330,6.3,20,3,2020.0,2024-09-04,Layoff
+476,Kelli Ingram,Sales,Engineer,Male,23,2018-05-31,52534,10.6,20,1,,2024-06-22,Layoff
+477,Ryan Olson,Finance,Manager,Male,27,2019-12-11,80867,8.2,13,4,,2023-02-04,Performance
+478,Scott Powers,HR,Manager,Female,47,2023-02-02,105362,9.9,1,2,2021.0,2025-10-30,Performance
+479,Christina Roberts,Finance,Analyst,Male,45,2021-02-22,106050,9.8,20,1,2017.0,2023-05-09,Better Opportunity
+480,Mary Mccarthy,Operations,Manager,Female,23,2016-04-11,90995,6.1,20,1,,2025-09-23,Performance
+481,Jeff Sheppard,HR,Engineer,Female,48,2017-02-12,99045,6.8,18,5,2019.0,,Performance
+482,Amanda Black,Marketing,Analyst,Male,30,2020-06-10,36267,8.6,14,5,,2025-12-23,Personal
+483,Tammy Thomas,Operations,Executive,Female,49,2017-07-20,83271,9.2,6,2,,2023-04-09,Personal
+484,Diane Mills,HR,Manager,Female,53,2024-07-19,39175,7.7,21,1,2016.0,,
+485,Angela Butler,Operations,Associate,Female,24,2021-09-25,138151,10.6,22,3,2021.0,2024-04-20,
+486,David Oneal,Marketing,Associate,Female,42,2017-01-04,102538,9.7,5,1,,,
+487,Jeremiah Anderson,Marketing,Analyst,Male,53,2023-12-13,98795,8.8,6,4,2017.0,2023-09-18,Personal
+488,Mary Franklin,HR,Analyst,Male,27,2023-10-23,65557,8.6,22,2,,,
+489,Bianca Ashley,Marketing,Executive,Female,47,2019-10-09,138509,6.4,24,2,,,Better Opportunity
+490,Dominique Simmons,HR,Associate,Female,52,2019-09-04,68251,7.5,0,1,2021.0,,Performance
+491,Crystal Schroeder,Operations,Manager,Female,27,2025-06-30,129570,6.8,2,1,,2023-02-23,Personal
+492,Curtis Fernandez,Sales,Associate,Male,28,2021-01-31,112017,8.9,16,5,,2024-10-02,Personal
+493,Nancy Rodriguez,Finance,Engineer,Female,30,2017-12-07,137185,6.9,20,5,,2023-04-22,Layoff
+494,Laurie Bush,Marketing,Manager,Male,40,2023-10-29,54245,10.3,27,2,,2023-05-27,Personal
+495,Jacob Garrett,Finance,Executive,Female,38,2019-12-17,91488,10.0,25,5,2020.0,,Better Opportunity
+496,Anthony Bowen,Finance,Manager,Male,41,2021-12-31,77333,10.8,18,3,,,
+497,Rose Underwood,HR,Manager,Female,23,2020-12-15,69386,8.6,30,4,2023.0,,Layoff
+498,Melanie Yu,Finance,Associate,Female,35,2024-09-04,124520,9.0,26,5,,,
+499,Ronald Chapman,IT,Engineer,Male,39,2021-01-09,54865,8.2,29,3,2021.0,,Layoff
+500,Charles Little,Marketing,Executive,Female,59,2023-03-23,138769,6.9,19,3,2021.0,,
+501,Felicia Harmon,IT,Associate,Female,28,2016-04-02,57371,9.5,24,1,,2023-03-24,Personal
+502,Brooke Mcmillan,IT,Associate,Female,26,2025-04-03,96597,6.6,14,4,2024.0,,Layoff
+503,Andre Clay,Finance,Analyst,Male,46,2020-06-29,77913,9.4,30,5,2021.0,,Performance
+504,Linda Galloway,Operations,Analyst,Male,46,2021-02-07,130698,8.5,5,4,2021.0,2024-05-17,Personal
+505,Danny Wall,IT,Engineer,Female,56,2019-11-28,111097,8.1,24,2,2018.0,2026-01-03,Layoff
+506,Jerry Morris,HR,Engineer,Female,58,2018-08-29,86759,10.7,14,3,2022.0,,Performance
+507,Timothy Barrett,Operations,Manager,Female,25,2022-06-11,78399,7.1,28,4,2017.0,,Layoff
+508,Larry Moore,IT,Manager,Female,32,2023-05-07,82295,10.0,6,1,2022.0,,Layoff
+509,Deborah Snyder,IT,Analyst,Male,38,2018-03-01,93608,7.6,28,1,2023.0,2023-12-12,Performance
+510,Rebecca Bell,Operations,Manager,Male,23,2021-10-21,98038,6.1,2,4,,,Performance
+511,Ashley Frederick,Finance,Analyst,Female,24,2022-02-16,100334,7.9,26,2,2020.0,2025-07-19,
+512,Alexandra Meyer,Sales,Executive,Male,46,2018-08-16,136599,10.9,6,2,,,Personal
+513,Jared Cobb,IT,Analyst,Male,40,2016-08-28,45529,8.5,10,3,,2024-08-03,Performance
+514,Robert Evans,Marketing,Executive,Female,47,2017-11-25,46599,8.1,6,2,,2024-03-09,Performance
+515,Cody Salinas,IT,Engineer,Male,52,2016-07-02,99174,9.0,13,2,2024.0,2024-08-07,Performance
+516,Kevin Rush,IT,Manager,Male,33,2018-09-25,35279,10.4,29,5,,,Better Opportunity
+517,Daniel Dean,Marketing,Executive,Male,52,2022-12-15,142754,9.8,29,5,,,Layoff
+518,Brandy Hughes,Operations,Engineer,Male,59,2019-05-02,105639,6.9,15,3,,,Performance
+519,Kathleen Moore,HR,Associate,Female,23,2018-05-19,145626,8.5,15,1,2016.0,2024-10-31,Performance
+520,Christian Morse,Finance,Analyst,Female,41,2024-03-06,71290,6.6,3,1,2021.0,,Better Opportunity
+521,Andrew Herrera,IT,Associate,Female,31,2025-02-16,51416,9.2,27,2,2021.0,,
+522,Melanie Mcdowell,Operations,Analyst,Male,60,2017-05-03,121260,6.7,11,1,,,Personal
+523,Elizabeth Woodward,HR,Engineer,Male,27,2019-01-09,90622,6.1,4,1,2017.0,2023-05-21,Personal
+524,Tyler Bush,Finance,Manager,Female,58,2024-08-19,113568,10.6,2,4,,,Layoff
+525,Amber Harris,Sales,Analyst,Female,22,2018-12-07,50885,8.1,6,1,,2026-01-09,Personal
+526,Stanley Russell,Operations,Executive,Male,33,2023-01-14,102516,10.6,23,2,2022.0,,Personal
+527,Eddie House,Sales,Associate,Female,38,2025-03-19,37272,10.1,7,1,,,Performance
+528,Teresa Johnson,IT,Executive,Female,36,2019-08-11,67466,6.9,30,4,2024.0,2025-01-11,Layoff
+529,Dominic Bell,Finance,Associate,Male,44,2017-05-15,98834,8.5,28,1,,2024-07-19,Layoff
+530,Evelyn Lopez,Finance,Manager,Female,36,2021-03-26,35140,10.9,3,5,2016.0,2024-12-24,Layoff
+531,Daniel Salazar,Operations,Associate,Female,37,2020-02-07,86930,10.6,21,2,2022.0,2024-10-29,Better Opportunity
+532,Juan Hansen,Sales,Analyst,Female,58,2021-01-02,38342,6.9,12,3,2019.0,,
+533,Jack Singleton,Operations,Analyst,Male,44,2016-06-14,98131,8.8,9,1,,,Personal
+534,Jeffrey Pace,Operations,Manager,Female,28,2021-11-01,54086,6.4,0,2,,2023-04-07,Performance
+535,Caitlin Blair DVM,Sales,Executive,Male,51,2019-05-11,133696,7.6,12,1,,2025-08-18,
+536,Jasmine Jefferson,Operations,Associate,Male,37,2018-10-12,146885,6.5,2,2,2018.0,2023-02-10,Personal
+537,Robert Reed,Operations,Manager,Female,36,2020-12-20,43665,7.9,8,2,,2023-06-01,Better Opportunity
+538,Eric Norris,Finance,Manager,Male,51,2024-12-26,139558,7.4,21,2,,2023-01-25,Performance
+539,Mitchell Kelly,Sales,Analyst,Female,38,2018-05-25,149180,7.5,9,1,2024.0,,Better Opportunity
+540,Sharon James,HR,Manager,Female,60,2021-02-17,134991,10.0,28,3,,2025-04-20,Personal
+541,Mrs. Sharon Wheeler,Finance,Associate,Male,38,2016-10-08,38139,8.5,6,5,2018.0,2023-10-14,Performance
+542,Kyle Anderson,Finance,Manager,Male,46,2020-06-27,35217,10.1,0,3,,2024-01-22,Performance
+543,Melissa Leon,Marketing,Manager,Female,57,2021-03-05,66001,7.7,24,4,,2024-07-12,
+544,Anna Wright,Sales,Executive,Female,48,2016-10-12,135800,10.6,24,3,,,Performance
+545,Harry Fernandez,Operations,Analyst,Male,22,2019-12-25,149679,10.3,8,4,2022.0,,Personal
+546,Gregory Peterson,Sales,Executive,Male,30,2022-11-08,39806,10.5,17,2,2020.0,,Layoff
+547,Derek Lewis,Finance,Manager,Male,32,2021-10-21,54342,10.1,17,1,2021.0,,Personal
+548,Rhonda Jones,Operations,Analyst,Female,53,2023-06-28,83150,7.0,8,2,,,Performance
+549,Stacey Marks,IT,Executive,Female,42,2018-05-21,54844,9.4,20,1,,,Better Opportunity
+550,Nicole Cruz,Finance,Engineer,Male,33,2023-09-09,104551,9.1,6,2,,2025-12-14,Personal
+551,Veronica Sutton,IT,Engineer,Male,27,2021-08-14,139423,8.2,29,5,2021.0,,Better Opportunity
+552,Frederick Martinez,HR,Manager,Male,54,2025-05-10,111836,9.1,25,5,,2025-12-11,Personal
+553,Louis Ferguson,Marketing,Executive,Male,51,2025-09-07,71596,7.4,21,4,2023.0,,Performance
+554,Bethany Brown,HR,Analyst,Male,38,2016-05-08,37848,10.4,2,5,,,
+555,Mitchell Garcia,HR,Engineer,Female,43,2016-04-13,129567,6.9,11,4,2024.0,,Better Opportunity
+556,Barbara Holmes,Operations,Engineer,Male,58,2024-09-25,34358,6.6,6,4,2023.0,2025-11-17,Personal
+557,Angela Jensen,IT,Executive,Female,57,2016-01-27,57596,6.0,17,4,,2023-11-01,Layoff
+558,David Higgins V,Operations,Engineer,Male,39,2022-01-29,47722,8.6,6,4,,2023-10-18,Better Opportunity
+559,Taylor Baker,Operations,Analyst,Female,43,2023-10-08,64767,7.3,7,3,2020.0,2025-05-01,Better Opportunity
+560,Caleb Brown,Finance,Analyst,Male,59,2018-05-18,100816,8.3,27,3,,,Performance
+561,Ricky Johnson,Sales,Executive,Female,24,2024-10-29,53074,7.5,28,2,2020.0,,Layoff
+562,Douglas Sandoval,IT,Engineer,Female,29,2021-10-07,54365,10.7,17,4,,,Personal
+563,Susan Ryan,Operations,Engineer,Female,27,2020-10-16,117979,8.1,7,1,,,Better Opportunity
+564,David Edwards,IT,Executive,Female,29,2021-11-21,42673,7.6,30,3,2018.0,2024-08-18,Personal
+565,Kara Holden,Finance,Associate,Female,46,2023-01-27,139471,9.0,26,1,,,Layoff
+566,Jill Carter,Operations,Executive,Male,30,2020-12-20,76169,6.0,10,2,2019.0,2023-03-02,Performance
+567,Jean Suarez,Marketing,Associate,Female,35,2021-01-18,140985,8.9,25,2,2023.0,,Layoff
+568,Micheal Marquez Jr.,Marketing,Analyst,Male,57,2020-11-27,145705,10.1,2,1,,2024-03-01,
+569,Chad Palmer,Operations,Engineer,Male,57,2017-05-22,82935,10.5,21,3,2021.0,2023-08-24,Better Opportunity
+570,Ryan Levy,Finance,Executive,Male,46,2020-06-22,92325,9.1,30,1,2024.0,,Better Opportunity
+571,Mark Aguilar,Marketing,Executive,Male,39,2024-10-07,32517,9.7,26,2,,2024-09-14,Performance
+572,Joseph Garcia,Marketing,Analyst,Female,43,2024-12-28,62550,6.7,12,1,,,Layoff
+573,Brooke Williams,IT,Executive,Male,50,2023-08-09,94060,6.7,8,4,,2025-07-10,
+574,Gregg Martin,HR,Analyst,Female,46,2018-04-05,145371,7.1,28,4,,,Better Opportunity
+575,Michael Murphy,Operations,Analyst,Female,31,2025-09-22,93984,10.1,1,5,2021.0,2023-01-23,Layoff
+576,Dominic Cooper,Finance,Manager,Male,34,2016-06-11,95723,8.4,2,5,,2025-05-17,Performance
+577,Ashley Moore,Operations,Analyst,Female,22,2021-12-20,71297,11.0,7,3,2020.0,,
+578,Jeffrey Butler,Marketing,Manager,Male,45,2025-07-14,43551,7.7,2,2,,2025-12-01,
+579,Ariel Moore,Marketing,Associate,Male,52,2020-04-14,51675,8.9,3,1,,2024-09-24,Layoff
+580,Earl Thompson,Operations,Associate,Male,39,2025-08-04,112173,7.2,24,1,2023.0,,Better Opportunity
+581,Maria Garcia,HR,Manager,Male,35,2018-04-17,126440,7.4,29,4,2024.0,,Layoff
+582,Shane Jones,IT,Analyst,Male,21,2020-07-10,50758,9.3,8,4,,2023-04-15,Performance
+583,Kenneth Orozco,IT,Analyst,Male,47,2025-10-12,121789,10.5,12,5,,,Performance
+584,Emily Haley,IT,Engineer,Male,29,2017-03-31,102957,9.7,30,5,2017.0,2023-09-11,Layoff
+585,Tracy Ford,IT,Executive,Male,35,2025-08-19,127249,6.6,27,4,2023.0,,Better Opportunity
+586,Melissa Butler,IT,Executive,Male,52,2022-11-06,76219,7.1,26,2,2019.0,,Personal
+587,Ryan Shepherd,Finance,Executive,Female,23,2017-08-16,29037,9.1,29,1,2018.0,2025-01-10,
+588,Michelle Baxter,Sales,Analyst,Male,49,2025-11-10,103513,7.2,3,5,,,Performance
+589,Mrs. Christina Brown DDS,Sales,Manager,Male,49,2020-11-02,85387,6.3,29,5,,2025-08-16,Better Opportunity
+590,Timothy Schultz,Marketing,Associate,Male,55,2022-11-28,80872,6.0,27,4,,,
+591,Joanna Peterson,IT,Executive,Male,39,2020-05-16,33964,10.1,9,4,2020.0,2025-11-27,Better Opportunity
+592,Erik Perkins,Marketing,Associate,Male,60,2025-01-18,121605,7.7,24,3,,2024-02-24,
+593,Sara Carlson,HR,Executive,Male,32,2022-04-07,65644,6.3,2,2,,,Layoff
+594,Mallory Smith,HR,Analyst,Male,24,2018-10-27,35205,7.2,27,3,2021.0,2023-08-26,
+595,Jennifer Martin,Operations,Associate,Male,34,2021-03-07,126106,10.4,22,2,,2023-06-29,
+596,Kimberly Evans,IT,Analyst,Female,36,2022-05-21,103932,9.7,8,3,2024.0,,Performance
+597,Rhonda Sullivan,IT,Executive,Male,52,2019-04-22,29239,8.4,26,1,,2025-09-28,Personal
+598,Christina Kidd,Operations,Manager,Male,28,2019-11-28,79106,7.0,11,1,,2023-02-21,
+599,James Taylor,Marketing,Engineer,Male,22,2020-11-28,86654,8.7,2,1,2017.0,,Performance
+600,James Wright,Marketing,Executive,Female,31,2021-04-05,39439,7.1,3,1,2023.0,,Better Opportunity
+601,Kevin Cuevas,Marketing,Engineer,Male,51,2023-12-22,114653,7.5,19,3,,,
+602,Thomas White,HR,Analyst,Female,60,2024-12-08,39610,9.5,27,2,,,Personal
+603,Carrie Brown,Operations,Associate,Male,30,2025-01-08,26138,8.9,21,1,,,Layoff
+604,Nicole Kennedy,Finance,Analyst,Female,55,2020-07-11,77734,7.2,13,1,,2023-11-05,
+605,Jennifer Huffman,Sales,Executive,Female,40,2024-11-13,83906,6.2,26,2,,2025-03-20,Personal
+606,Casey Hickman,Operations,Executive,Female,28,2019-11-16,62136,7.1,21,1,2022.0,2025-04-28,Performance
+607,Nicholas Daniel,Sales,Executive,Female,31,2023-07-28,126993,8.1,21,3,,2024-10-17,Performance
+608,Thomas Howard,HR,Analyst,Male,35,2022-03-09,112396,9.8,14,3,2022.0,2025-06-08,Performance
+609,Michael Moore,IT,Executive,Male,46,2020-11-28,142133,8.4,20,5,,2023-04-12,Better Opportunity
+610,Bonnie Campbell,Marketing,Executive,Female,42,2021-06-23,65749,10.3,16,3,,2024-01-18,Better Opportunity
+611,Thomas Lee,HR,Engineer,Female,28,2020-10-09,146831,8.4,28,4,2023.0,2023-02-15,Layoff
+612,Jennifer House,IT,Engineer,Male,30,2025-12-28,44562,8.1,7,3,,2023-02-08,Layoff
+613,Aaron Wright,Finance,Associate,Male,48,2019-06-24,52133,8.1,17,3,2021.0,,Layoff
+614,Jeff Taylor,Operations,Manager,Male,59,2016-09-12,98919,10.0,11,2,,2025-05-06,
+615,William Jones,IT,Manager,Female,56,2022-09-22,142773,7.3,30,4,,,Personal
+616,Sandra Jones,Operations,Engineer,Female,52,2017-05-28,43292,9.8,13,2,,2024-09-15,Personal
+617,Ethan Graham,Marketing,Engineer,Male,52,2021-09-07,107794,7.5,28,3,,,Performance
+618,Justin Wilson,IT,Manager,Male,39,2025-05-31,134122,6.9,18,4,,2025-12-18,Layoff
+619,Jamie Hernandez,HR,Engineer,Male,26,2025-12-29,48622,9.3,30,5,,,Layoff
+620,Terry Buckley,IT,Engineer,Male,35,2025-03-18,33655,7.3,22,4,2016.0,2025-08-23,
+621,Robert Arroyo,Finance,Analyst,Male,48,2018-09-28,117927,6.4,18,1,,,Performance
+622,Kristin Barnes,HR,Associate,Male,53,2021-01-24,33605,8.0,0,3,2024.0,2024-05-18,Personal
+623,James Smith,IT,Engineer,Female,32,2016-12-04,38589,10.3,26,5,,,Personal
+624,Mark Sutton,Finance,Associate,Female,38,2016-09-24,40887,9.2,30,4,,,Personal
+625,Christopher Johnson,HR,Engineer,Male,44,2019-10-07,96026,9.1,8,3,,,Performance
+626,William Hill,Finance,Engineer,Female,44,2018-04-05,140424,8.4,18,3,2021.0,,Personal
+627,Kelly Franklin,IT,Analyst,Male,60,2019-04-24,66861,6.7,25,3,2021.0,,
+628,Jeffrey Cole,Operations,Engineer,Female,53,2023-05-27,70037,7.3,27,2,2017.0,2023-09-28,Better Opportunity
+629,Gabriela Fritz,Finance,Manager,Male,60,2016-08-08,47631,9.8,25,3,,2024-06-23,Layoff
+630,Allison Jordan,Marketing,Engineer,Male,53,2024-04-18,39908,9.6,1,2,,,Performance
+631,Colleen White,Marketing,Manager,Female,59,2020-09-09,49290,9.2,24,3,2018.0,,
+632,Alexandra Clark,IT,Analyst,Male,44,2024-07-02,143080,8.3,15,3,,2024-07-05,Personal
+633,Lee Williams,IT,Associate,Male,35,2017-08-15,85641,8.8,30,5,,,
+634,Vanessa Taylor,IT,Executive,Male,28,2020-06-25,116857,7.3,24,1,,2025-05-19,Layoff
+635,Gabriel Martin,Finance,Analyst,Male,21,2022-07-25,116864,6.1,28,2,,2023-04-14,Better Opportunity
+636,Tammy Hernandez,Finance,Manager,Female,52,2024-01-23,137423,7.5,30,4,,2023-04-27,Better Opportunity
+637,Paul Murphy,Operations,Analyst,Female,40,2021-10-10,30707,9.0,30,5,,2023-06-26,Personal
+638,Nathaniel Prince,IT,Associate,Male,50,2024-06-20,31609,10.6,3,3,2017.0,,Better Opportunity
+639,Yesenia Swanson,Finance,Associate,Male,27,2024-09-29,28174,9.7,16,2,2023.0,2023-11-08,Better Opportunity
+640,Heather Stewart,IT,Manager,Female,49,2016-04-23,94829,7.5,23,4,,2024-02-19,
+641,Mrs. Kim Pierce DDS,HR,Executive,Female,47,2021-10-16,30751,6.2,26,4,2018.0,2024-04-14,Layoff
+642,Diana Werner,Finance,Engineer,Female,56,2022-03-10,103146,10.3,30,4,2019.0,,
+643,Christopher Wiggins,Operations,Analyst,Female,43,2019-02-09,53461,10.8,28,3,2019.0,2024-10-15,Performance
+644,Michael Lucero,HR,Analyst,Male,25,2019-03-17,89164,6.9,22,1,2020.0,2023-03-02,Performance
+645,Maria Wagner,IT,Manager,Female,43,2019-12-11,72494,6.2,28,4,,2024-12-30,Performance
+646,John Boyd,Finance,Executive,Female,27,2023-09-09,25596,10.1,6,3,2016.0,2025-06-06,Performance
+647,Peter Kelly,HR,Executive,Female,27,2021-11-28,50913,9.3,24,3,,2025-11-02,Better Opportunity
+648,Jennifer Hodge,HR,Analyst,Male,40,2024-09-18,124547,6.3,24,4,2024.0,2024-09-27,Layoff
+649,Monica Lee,Marketing,Manager,Male,57,2021-07-09,25154,8.4,20,1,,,Personal
+650,Sara Lester,IT,Engineer,Female,52,2023-10-29,90126,6.4,3,1,2019.0,,Better Opportunity
+651,Michael Gray,Finance,Engineer,Female,27,2023-02-01,66423,8.8,10,2,,,Performance
+652,Ryan Howard,Marketing,Analyst,Female,45,2017-08-04,35997,10.4,8,5,2016.0,,Better Opportunity
+653,Tami Zamora,IT,Associate,Male,53,2016-11-25,51342,9.1,13,4,2024.0,2024-08-10,
+654,Michele Miller,Marketing,Analyst,Female,34,2019-08-10,116871,9.7,29,1,2019.0,,Better Opportunity
+655,Samantha Thompson MD,Operations,Associate,Male,49,2024-02-15,122375,9.9,0,5,,,
+656,Lance Johnson,Marketing,Manager,Female,22,2025-08-09,30338,10.4,18,5,,,Better Opportunity
+657,Bruce Roberts,Sales,Executive,Male,29,2024-05-27,41529,8.1,11,1,2022.0,2023-12-21,
+658,Ms. Jennifer Armstrong MD,Operations,Engineer,Female,21,2021-08-28,82111,7.6,0,1,2023.0,2025-05-02,Performance
+659,Jeffrey Barron,Sales,Analyst,Female,59,2024-07-07,125748,10.7,8,1,,2023-10-25,Layoff
+660,Tammy Davis,Marketing,Analyst,Female,36,2023-09-26,128705,10.4,11,5,,2023-02-03,Layoff
+661,Vincent Williams,IT,Associate,Male,50,2018-06-02,54404,9.3,8,2,,2024-06-28,Better Opportunity
+662,Michael Ramos DDS,Operations,Associate,Female,57,2020-05-04,80623,7.4,13,5,2016.0,,Personal
+663,Nicole Rogers,Finance,Associate,Male,47,2024-10-20,42846,7.5,16,2,,,Layoff
+664,Michelle Young,Sales,Analyst,Female,24,2021-06-19,98802,10.9,2,5,2022.0,,Better Opportunity
+665,Benjamin Martin,Sales,Manager,Female,43,2025-01-19,88981,8.5,1,2,,,Layoff
+666,Tonya Adams,Marketing,Analyst,Male,35,2025-04-03,41810,8.7,15,1,2018.0,,Better Opportunity
+667,Carolyn Alexander,Operations,Manager,Female,44,2023-10-05,87240,10.0,17,3,2019.0,2025-03-24,Layoff
+668,Juan Davidson,Operations,Engineer,Female,34,2016-11-02,102443,7.6,3,2,2024.0,2023-09-25,Better Opportunity
+669,Dawn Keller,Finance,Manager,Male,34,2022-09-19,71830,10.7,21,1,,,Layoff
+670,Carolyn Jones,Operations,Executive,Female,48,2021-05-13,30745,10.9,7,2,2019.0,2024-10-03,Personal
+671,Benjamin Vega,Sales,Executive,Male,36,2025-08-28,79872,7.1,20,2,2024.0,2024-07-24,Personal
+672,Jonathon Craig,Marketing,Engineer,Male,40,2021-11-10,45831,9.1,1,1,,,Personal
+673,Jennifer Peterson,HR,Engineer,Female,33,2020-06-23,44082,8.4,30,1,,2023-02-18,Personal
+674,Christopher Dalton,IT,Manager,Female,28,2022-10-03,55622,8.0,13,2,,2024-01-18,Personal
+675,Erin Henderson,Marketing,Associate,Female,50,2019-02-06,139453,10.3,9,1,2016.0,,Performance
+676,Patty Turner,Finance,Executive,Female,26,2016-07-21,82811,7.1,22,5,2017.0,2023-10-12,Performance
+677,David Silva,HR,Manager,Female,28,2019-08-08,132292,6.7,9,3,2019.0,2025-10-31,Better Opportunity
+678,Jennifer Wood,Finance,Manager,Male,48,2021-08-15,50213,8.8,5,4,,2025-03-15,
+679,Mrs. Sara Henderson DVM,Sales,Engineer,Female,38,2022-08-20,53671,8.8,12,2,2023.0,,Personal
+680,Courtney Aguilar,HR,Manager,Female,49,2023-02-12,123358,10.0,10,2,,,
+681,Eric Barrett,Marketing,Engineer,Male,27,2019-11-17,86711,9.3,16,3,2021.0,2023-03-14,
+682,Charles Reese,Operations,Manager,Male,42,2024-02-06,40262,7.8,8,2,,2025-06-20,Personal
+683,Taylor Peters,Operations,Executive,Male,27,2021-09-23,59433,10.1,9,3,,2025-02-06,Performance
+684,Rebecca Davis,IT,Engineer,Female,50,2022-01-05,38560,7.1,22,4,2021.0,,Layoff
+685,Brian Johnson,Marketing,Executive,Male,58,2023-07-20,91625,7.9,16,4,2023.0,,
+686,Brian Burton,HR,Analyst,Female,57,2018-06-17,26800,10.1,1,4,,,Layoff
+687,John Pearson,IT,Executive,Female,40,2025-12-06,27740,10.3,30,1,2019.0,2024-02-22,Performance
+688,Jason Adkins,IT,Executive,Female,54,2023-04-15,146821,10.1,12,1,,2025-02-27,Performance
+689,Joseph Allen,Marketing,Analyst,Female,23,2021-07-01,101701,8.3,18,3,2022.0,,Layoff
+690,Renee Sullivan,HR,Associate,Female,43,2016-09-23,45675,8.9,28,3,,,Performance
+691,Mr. Aaron Edwards,Finance,Executive,Male,21,2025-06-09,147825,6.6,25,4,2016.0,,Personal
+692,Thomas Phillips,IT,Analyst,Male,48,2019-10-04,87200,6.5,29,1,2022.0,2023-08-30,Layoff
+693,Chelsea Green,Operations,Analyst,Female,40,2025-09-25,70050,9.9,21,5,2019.0,2025-10-07,Better Opportunity
+694,Katherine Avila,Sales,Analyst,Male,52,2025-07-19,62829,9.2,25,4,2022.0,,
+695,Taylor Hayden,HR,Engineer,Female,48,2023-05-29,115205,7.7,16,4,,,Better Opportunity
+696,Jeremy Adkins,IT,Engineer,Male,55,2021-04-25,36256,10.0,13,1,,,Personal
+697,Christian Bradley,Sales,Associate,Male,30,2020-10-08,70766,7.7,20,1,,2024-04-16,Personal
+698,Connie Jones,Sales,Engineer,Male,56,2025-07-08,89200,7.3,9,5,,,Better Opportunity
+699,Brian Ellis,HR,Associate,Male,29,2020-01-04,77825,8.2,5,5,,2025-07-07,Performance
+700,Courtney Smith,Sales,Engineer,Male,55,2017-11-18,102031,7.0,5,4,2024.0,,
+701,Emily Blair,Marketing,Executive,Female,39,2026-01-08,62261,7.3,14,2,2017.0,,
+702,Joshua Cunningham,Marketing,Manager,Male,39,2024-05-25,146275,6.7,8,2,2023.0,,Layoff
+703,Jacqueline Webb,IT,Engineer,Female,21,2021-04-05,100123,7.0,20,3,,2025-08-03,Better Opportunity
+704,Andrea Mcconnell,Sales,Manager,Female,55,2023-05-03,119461,10.4,12,3,2024.0,2025-12-24,Performance
+705,Gabrielle Jones,Marketing,Analyst,Female,38,2025-09-30,118781,7.0,4,3,,2024-02-16,Personal
+706,Kevin Conley,HR,Analyst,Male,52,2022-04-03,32285,7.4,15,2,2023.0,,Performance
+707,Joshua Meyer,Finance,Engineer,Male,21,2021-09-24,60991,10.6,4,4,,2025-08-31,Personal
+708,Amy Carpenter,Operations,Executive,Male,41,2019-02-22,104949,8.7,27,2,,,Better Opportunity
+709,Christopher Lawson,Finance,Executive,Male,29,2020-06-12,115719,7.8,20,2,2022.0,,
+710,Randy White,HR,Engineer,Male,49,2017-03-05,119858,10.2,21,4,2022.0,,
+711,Jessica Rogers,Operations,Associate,Female,47,2019-03-28,38858,9.8,1,5,2023.0,,Better Opportunity
+712,Peter Clark,Finance,Manager,Female,35,2019-01-09,52053,8.6,1,1,2018.0,2023-07-02,Personal
+713,Steven Evans,Finance,Manager,Male,50,2020-10-20,44944,6.4,19,2,,2025-02-10,Performance
+714,Chelsea Williams,HR,Manager,Female,28,2021-07-03,35338,9.1,12,5,,2023-05-06,Better Opportunity
+715,Tim Carroll,Operations,Manager,Male,49,2019-02-01,145909,9.7,12,5,,,Performance
+716,Dr. Carlos Garcia MD,HR,Engineer,Female,26,2018-05-24,108082,8.7,14,1,,,
+717,Alec Benton,Operations,Analyst,Male,30,2016-10-16,135702,7.1,5,1,,,
+718,Jacob Graham,HR,Manager,Male,43,2024-07-24,101933,10.6,13,5,2020.0,,Better Opportunity
+719,Amy Bell,HR,Manager,Female,37,2018-05-04,51129,8.3,5,5,2019.0,,Better Opportunity
+720,Justin Mendoza,HR,Engineer,Male,41,2016-08-17,148447,7.4,20,2,,2025-11-20,
+721,Alexandra Moss,Finance,Engineer,Male,32,2018-09-12,103799,6.3,22,2,2017.0,,Performance
+722,Thomas Wilson,Finance,Analyst,Female,47,2020-09-06,102227,7.3,12,3,2016.0,2023-10-05,Performance
+723,Sara Brown,HR,Manager,Male,23,2017-02-28,71600,9.9,6,3,,2023-07-17,Personal
+724,Jasmine Herrera MD,Marketing,Analyst,Female,37,2018-05-03,141706,9.4,29,5,2017.0,,Personal
+725,Adam Gibbs,Operations,Associate,Male,54,2020-03-19,141315,7.5,5,4,2024.0,,Personal
+726,Daniel Smith,Marketing,Associate,Female,50,2020-09-27,129326,7.6,30,4,2021.0,,Better Opportunity
+727,Evan Skinner,Sales,Manager,Male,37,2019-12-02,79220,6.8,20,5,,,Layoff
+728,Jaime Taylor,Marketing,Associate,Male,27,2019-11-30,143854,10.5,12,3,,2024-10-16,
+729,April Guzman,Marketing,Executive,Female,38,2023-08-28,62402,7.4,19,3,,,Personal
+730,Roberto Landry,HR,Engineer,Male,51,2022-01-21,44408,8.9,4,5,2023.0,,Personal
+731,David Curtis,IT,Associate,Male,37,2019-10-03,76819,8.1,4,3,,2024-09-05,Better Opportunity
+732,Amy Adams,Sales,Manager,Female,38,2017-08-08,108349,9.0,2,4,2018.0,,Better Opportunity
+733,Stephanie Miranda,Finance,Associate,Female,36,2020-01-22,134763,9.1,21,4,,2025-11-08,
+734,Ruben Wise,Marketing,Executive,Female,44,2016-09-21,102987,7.7,4,3,,,Better Opportunity
+735,Kristen Simpson DVM,Operations,Analyst,Female,31,2022-09-07,47173,7.5,25,3,2017.0,2025-06-29,
+736,Ashley Huang,Finance,Manager,Female,27,2024-04-20,38362,9.7,29,2,,2025-10-24,Better Opportunity
+737,James Huber,HR,Executive,Female,38,2022-04-19,78842,6.3,29,2,,,
+738,Eric Taylor,Finance,Associate,Male,40,2024-11-01,43851,8.4,5,4,2020.0,,Personal
+739,Jose Singleton,HR,Analyst,Male,44,2016-01-25,52436,7.2,22,3,2020.0,,Personal
+740,Kristin Krause,Operations,Associate,Male,44,2023-03-22,70608,8.0,7,5,,,Better Opportunity
+741,Daniel Davis,IT,Manager,Male,43,2018-10-12,92472,10.1,8,2,,,Personal
+742,Corey Gilbert,Marketing,Analyst,Female,33,2024-11-28,127014,8.9,6,4,,2025-12-21,Layoff
+743,Stephen Payne,Sales,Executive,Female,32,2020-06-16,145077,6.5,30,1,,2023-07-11,Layoff
+744,Diane Reed,Sales,Analyst,Male,21,2023-09-02,43132,8.2,3,4,2023.0,,Layoff
+745,Brandy Hamilton,Sales,Manager,Male,22,2024-08-22,66039,7.5,12,3,2022.0,2023-03-24,
+746,Michelle Day,Operations,Manager,Female,48,2016-03-11,62153,10.7,16,3,,2025-08-31,
+747,Adam Hall,Finance,Analyst,Female,25,2019-10-12,73093,9.7,5,5,,,Performance
+748,David Francis,Operations,Executive,Male,40,2021-11-19,26009,10.3,14,5,2023.0,2025-08-05,Better Opportunity
+749,Matthew Parker,Operations,Engineer,Male,39,2018-06-08,48396,8.1,3,3,,2023-03-04,Better Opportunity
+750,Daniel Kane,Marketing,Engineer,Female,59,2025-07-01,26031,6.3,16,4,2020.0,,
+751,Holly Hopkins,Operations,Associate,Male,34,2019-12-18,116968,8.7,20,1,,,Better Opportunity
+752,Robert Martinez,IT,Associate,Female,37,2017-10-11,118261,6.2,1,3,2018.0,,Performance
+753,Mrs. Tricia Harris,Finance,Associate,Female,53,2023-04-12,139750,6.3,14,2,2022.0,2025-10-05,
+754,Martin Miller,Sales,Manager,Female,28,2025-10-19,129245,6.5,8,4,2019.0,,
+755,Antonio Jordan,Marketing,Engineer,Female,49,2025-05-23,113773,6.1,29,5,2017.0,2024-03-14,Better Opportunity
+756,Michael Morgan,Sales,Associate,Male,55,2022-12-18,139606,6.8,21,1,,,Personal
+757,Kaylee Stewart,IT,Manager,Male,52,2022-05-07,30790,7.5,7,4,,,
+758,Donald Chen,Marketing,Executive,Female,27,2019-10-04,53197,9.3,10,3,,2025-12-04,Better Opportunity
+759,Cindy Alvarado,Operations,Engineer,Female,54,2016-03-01,69450,9.5,27,4,2024.0,,Better Opportunity
+760,Earl Noble,Sales,Associate,Male,50,2019-08-12,57809,6.9,0,1,2017.0,,Layoff
+761,Thomas Bryant,HR,Associate,Female,47,2019-09-20,60762,6.6,29,5,2019.0,2025-11-11,Performance
+762,Mary Ballard,HR,Analyst,Female,45,2019-08-14,132866,10.8,13,2,2023.0,2025-04-08,Personal
+763,Nicole Bonilla,HR,Executive,Female,37,2016-12-23,142327,8.9,12,1,,,Personal
+764,Cody Taylor,Sales,Executive,Male,48,2024-02-12,92602,10.5,15,5,,,Personal
+765,Michael Johnson,Marketing,Analyst,Female,53,2022-07-15,57647,6.3,14,5,,,Better Opportunity
+766,Samantha Ramirez,HR,Analyst,Male,55,2016-12-29,95506,7.5,23,4,,,Personal
+767,Tiffany Valdez,Marketing,Executive,Male,33,2020-07-02,58561,6.2,8,3,2020.0,,Better Opportunity
+768,Jorge Hamilton,HR,Engineer,Female,32,2020-01-23,117458,9.8,4,4,2019.0,2025-12-23,Better Opportunity
+769,Brian Graham,Marketing,Engineer,Female,34,2023-05-10,126798,8.2,29,3,2019.0,2024-08-16,
+770,Jessica Bowen,Sales,Analyst,Male,57,2025-12-18,38499,8.3,27,2,,,Better Opportunity
+771,John Lloyd,IT,Associate,Female,41,2022-05-26,42335,8.5,10,3,2018.0,2024-05-13,
+772,Evan Young,Sales,Associate,Female,35,2024-09-06,121923,6.1,3,1,2016.0,,Personal
+773,Kimberly Barnes,HR,Analyst,Female,26,2021-05-05,146941,9.0,8,2,,2025-04-22,Performance
+774,Larry Williams,Finance,Associate,Male,28,2020-06-29,71499,7.4,14,3,2016.0,,Layoff
+775,Kristopher Johnson,Sales,Manager,Male,36,2025-03-28,77282,9.6,16,1,,,Performance
+776,Christopher Henry,Finance,Associate,Male,26,2017-09-15,131539,9.7,1,5,2024.0,,Personal
+777,Joseph Reynolds,HR,Analyst,Female,44,2021-01-31,139281,10.2,12,5,,,Personal
+778,Kelly Clayton,Sales,Manager,Male,47,2022-01-07,108695,8.3,2,5,2023.0,,Layoff
+779,David Mccarthy,IT,Executive,Male,36,2017-10-31,44546,7.3,7,1,,2025-09-10,Better Opportunity
+780,Leah Perez,Sales,Associate,Male,35,2017-04-23,78874,7.3,11,2,2016.0,2024-06-01,Personal
+781,Tara Owens,HR,Associate,Male,53,2019-09-10,141458,6.4,3,5,2016.0,2023-08-26,Performance
+782,Aaron Hart,Marketing,Analyst,Male,29,2017-11-06,136242,9.6,24,5,2022.0,2025-11-19,Better Opportunity
+783,Keith Cole,Marketing,Associate,Female,49,2016-05-24,88537,7.7,28,1,2022.0,2024-03-11,Performance
+784,Juan Wilson,Sales,Associate,Female,26,2024-07-21,73535,9.6,2,2,2022.0,,Performance
+785,Maureen Day,Marketing,Manager,Female,24,2018-11-13,46086,9.9,12,3,2016.0,,Performance
+786,Tara Martinez,Sales,Manager,Female,24,2025-07-08,39463,10.1,8,3,2023.0,2023-06-15,Better Opportunity
+787,Kaylee Avila,Sales,Analyst,Female,46,2018-02-13,142799,10.0,8,3,,,
+788,Edward Rodgers,Operations,Executive,Male,23,2016-02-21,126015,9.7,15,5,,2023-07-30,Performance
+789,James Velasquez,HR,Executive,Female,52,2019-04-01,68426,9.9,6,3,,,Personal
+790,Jamie Brown,HR,Manager,Male,38,2023-06-24,34226,6.6,12,2,,,
+791,Stephanie Williams,Sales,Engineer,Female,44,2021-02-24,86896,7.1,10,5,,2024-06-11,
+792,Danielle Scott,Sales,Manager,Female,27,2025-10-16,37257,9.1,28,5,2024.0,,
+793,Joseph Price,Finance,Executive,Male,42,2021-11-24,132562,8.8,16,2,,,Layoff
+794,Colleen Johns,Finance,Manager,Female,28,2021-07-21,40164,10.3,15,2,2020.0,,Better Opportunity
+795,Jeffrey Carter,HR,Analyst,Male,47,2018-04-16,121317,6.4,23,3,,,Layoff
+796,Nathan Randolph,Sales,Executive,Male,45,2022-11-10,84439,9.6,22,2,2024.0,,
+797,Mr. Anthony Mcfarland MD,Operations,Associate,Male,22,2022-07-06,139070,9.0,12,2,2020.0,,Better Opportunity
+798,Amy Griffith,Finance,Manager,Male,58,2022-01-14,132904,8.6,15,5,,2024-12-14,
+799,Joseph Brown,IT,Associate,Male,44,2018-02-11,148765,8.7,25,5,2016.0,,Performance
+800,Dustin Weeks,Sales,Engineer,Male,27,2019-12-22,147240,9.2,23,3,,,Performance
+801,Robin Lang,IT,Engineer,Female,58,2022-04-29,34389,10.2,25,5,,2024-06-04,Personal
+802,Adam Hutchinson,Sales,Engineer,Female,31,2017-02-05,104791,6.6,21,3,2024.0,2024-12-04,Personal
+803,Joann Anderson,HR,Associate,Female,42,2022-05-26,92716,6.7,13,5,,2025-04-13,
+804,Kristin King,Sales,Engineer,Female,35,2017-01-29,25262,8.4,13,4,2016.0,,Layoff
+805,Christine Gaines,HR,Executive,Male,28,2025-04-12,74696,7.2,17,1,2023.0,2023-12-14,Performance
+806,Daniel Francis,Marketing,Associate,Female,29,2016-04-23,102097,10.0,0,1,2017.0,,
+807,Pedro Sutton,IT,Associate,Female,36,2023-07-07,56773,9.4,23,2,2024.0,2025-02-18,Performance
+808,John Russell,Sales,Executive,Female,25,2016-09-28,103146,7.1,29,5,,,Personal
+809,Robert Ramirez,Sales,Engineer,Male,23,2022-05-20,70519,6.9,21,4,2021.0,2024-11-23,Better Opportunity
+810,Elizabeth Ortega,Finance,Analyst,Male,43,2020-11-01,106802,6.3,29,1,2020.0,,Layoff
+811,Damon Hoffman,Sales,Associate,Male,53,2016-03-15,61575,7.3,19,3,2018.0,,Layoff
+812,William White,IT,Associate,Female,26,2025-07-26,109074,8.4,25,3,2024.0,2024-10-05,Layoff
+813,James Miller,Operations,Executive,Male,40,2025-11-21,58503,9.3,30,1,,,Personal
+814,Gregory Meyers,HR,Engineer,Male,44,2017-02-20,63326,10.3,29,2,,2024-12-31,Layoff
+815,Jeffrey Lewis,Sales,Engineer,Female,49,2025-10-17,126653,10.2,21,3,2021.0,2024-06-04,Better Opportunity
+816,Nathan Terry,Sales,Executive,Female,58,2020-02-09,85611,9.8,18,4,2018.0,2023-02-05,
+817,Angela Guzman,Marketing,Engineer,Female,53,2018-05-29,124228,7.3,23,5,,,Performance
+818,Benjamin Decker,IT,Manager,Female,24,2024-10-11,45062,7.0,8,1,,,Performance
+819,Clinton Sandoval,Finance,Manager,Male,29,2025-02-04,140224,7.3,24,5,2021.0,2024-12-15,Better Opportunity
+820,Chris Henry,IT,Manager,Male,30,2020-08-24,128810,9.3,12,4,,2023-02-22,Personal
+821,John Martinez,HR,Associate,Male,55,2021-07-21,64252,8.3,19,1,2020.0,,Personal
+822,Lisa Johnson,Sales,Executive,Female,22,2020-09-22,31137,9.7,14,1,2017.0,,Personal
+823,Kevin Collins,Finance,Analyst,Male,39,2024-04-08,65197,9.5,4,1,2022.0,,
+824,Dawn Branch,Finance,Analyst,Male,51,2018-06-09,142809,10.0,0,4,,,Personal
+825,Diana Hunter,Marketing,Associate,Female,43,2018-05-16,38124,10.0,0,5,2022.0,,Layoff
+826,Brittany Miller,IT,Associate,Female,29,2022-10-15,91420,7.3,5,4,2023.0,,Personal
+827,Samantha Estrada,Sales,Executive,Male,34,2022-07-28,117240,9.1,20,1,,,Layoff
+828,Blake Snow,Marketing,Engineer,Male,47,2016-09-16,29845,10.1,22,1,,,Personal
+829,Ralph Mason,Sales,Associate,Female,42,2016-08-18,109609,10.4,24,2,2022.0,,
+830,Robert Crawford,Marketing,Associate,Male,26,2024-07-01,123999,7.7,19,3,2018.0,2025-09-12,Personal
+831,Melissa Benton,Sales,Engineer,Male,59,2017-01-16,44472,8.4,25,4,,,Personal
+832,Antonio Collins,HR,Manager,Male,29,2024-05-11,87964,6.2,19,4,2018.0,,Better Opportunity
+833,Edward Mitchell,Sales,Manager,Male,45,2016-07-15,124907,6.2,19,3,,,Better Opportunity
+834,Ryan Payne,HR,Associate,Female,58,2022-09-08,104060,6.0,29,4,,,Personal
+835,Bryan Griffin,Sales,Manager,Male,52,2021-11-23,104428,7.1,29,5,2022.0,,Personal
+836,Lisa Phillips,HR,Associate,Male,40,2016-01-26,74426,8.9,4,2,,,Better Opportunity
+837,Laura Taylor,Marketing,Analyst,Female,54,2017-11-17,101286,7.0,8,1,2020.0,2023-07-12,
+838,Carolyn Bass,Sales,Engineer,Male,33,2024-11-25,128035,10.0,20,3,,,Better Opportunity
+839,Erica White,IT,Engineer,Male,28,2020-10-11,126571,7.9,30,3,,,Layoff
+840,Jenna Spencer,Marketing,Executive,Male,54,2023-03-13,120525,6.5,17,4,,2026-01-15,Layoff
+841,Randall Valdez,Marketing,Engineer,Female,56,2019-01-08,138501,9.1,17,3,2021.0,2024-12-17,Performance
+842,Stephanie Eaton,HR,Executive,Female,45,2016-11-11,87560,9.7,16,3,,,
+843,Jeremy Liu,Operations,Associate,Male,44,2016-12-08,140808,9.6,27,2,,,Personal
+844,Leslie Mcclure II,Operations,Engineer,Female,43,2018-03-23,104481,6.2,29,5,,2023-09-09,
+845,Robert Smith,Operations,Manager,Male,38,2025-10-02,132156,6.8,28,3,2020.0,2025-05-04,
+846,Randall Gonzalez,Operations,Manager,Female,30,2024-11-16,30471,9.6,3,4,2021.0,2024-04-16,Personal
+847,Ashley Wilson,HR,Manager,Male,45,2022-09-29,91364,8.3,8,5,,2025-07-04,Performance
+848,Brittany Norris,Sales,Manager,Female,46,2017-07-07,146260,10.7,27,5,2022.0,,Better Opportunity
+849,Colton Porter,Sales,Executive,Male,60,2022-02-04,69431,6.1,27,5,,2025-08-11,Personal
+850,Douglas Hawkins,HR,Associate,Female,28,2018-06-02,123915,7.6,9,3,,,
+851,James Stewart,IT,Engineer,Female,25,2017-03-11,50958,8.7,11,3,2022.0,2025-02-21,Better Opportunity
+852,Micheal Guerra,Sales,Engineer,Female,36,2018-08-28,118309,8.5,19,3,,2023-12-27,Layoff
+853,Ronald Nguyen,Marketing,Engineer,Male,32,2020-04-03,26769,7.1,13,3,2023.0,2024-06-01,Performance
+854,Thomas Smith,HR,Engineer,Male,58,2016-11-05,123174,7.8,1,1,2020.0,,Personal
+855,Zachary Gonzalez,IT,Executive,Male,49,2025-12-15,102909,10.0,1,1,,,Better Opportunity
+856,Thomas Wheeler,Sales,Analyst,Female,41,2021-07-17,76686,10.3,24,1,,,Personal
+857,Bryan Lowery,HR,Engineer,Female,32,2019-07-12,65167,6.4,5,3,,,
+858,Heather Cook,IT,Analyst,Male,46,2022-08-26,29793,10.3,4,4,,,
+859,Albert Johnson,Operations,Engineer,Male,24,2016-01-26,146664,10.7,5,4,,,Better Opportunity
+860,Dylan Fry,Sales,Manager,Female,51,2024-01-25,35913,8.4,6,2,2021.0,,
+861,Theresa Marshall,HR,Executive,Female,23,2021-11-18,42985,6.7,20,2,2019.0,,Layoff
+862,Daniel Jones,Sales,Engineer,Female,46,2018-01-21,84209,11.0,16,5,,2024-06-08,Better Opportunity
+863,Matthew Miller,Operations,Executive,Male,55,2023-11-09,63777,8.1,15,1,2023.0,,
+864,Karen Miller,Marketing,Engineer,Female,33,2023-01-04,75213,6.9,24,4,2022.0,,
+865,Ann Howe,HR,Analyst,Male,52,2017-09-10,40238,6.9,11,2,,2024-06-29,Better Opportunity
+866,Katherine Douglas,Operations,Engineer,Female,60,2017-03-30,40638,10.2,5,3,,,Personal
+867,Amy Jimenez,IT,Manager,Female,36,2025-10-07,34683,10.5,29,2,2021.0,2025-09-25,Personal
+868,Darren Stephens,HR,Analyst,Female,36,2026-01-18,117028,6.7,27,3,,2024-11-29,
+869,Travis Miller,Marketing,Engineer,Female,27,2019-05-31,45929,9.7,25,3,,2025-07-29,
+870,Stephanie Singleton,Marketing,Associate,Female,49,2021-02-10,122060,8.1,5,2,2024.0,2023-02-23,
+871,Mrs. Heather Gonzalez,HR,Manager,Female,46,2017-12-24,69690,7.0,9,2,2020.0,2026-01-02,Better Opportunity
+872,Tyrone Cunningham,Operations,Analyst,Male,23,2021-02-25,137517,9.7,7,2,,2023-07-06,Performance
+873,David Gonzales,Operations,Engineer,Female,42,2019-05-14,66194,9.9,15,1,,2023-06-04,Layoff
+874,Meredith Santiago,Marketing,Manager,Male,50,2018-10-10,149933,6.7,12,5,,2023-12-31,Layoff
+875,Brian Williams,Operations,Analyst,Male,31,2025-10-11,121976,8.6,9,1,2021.0,2024-05-09,Layoff
+876,Kenneth Wallace,Marketing,Analyst,Female,24,2021-12-09,65671,8.0,22,2,2021.0,,Personal
+877,Joshua Martinez,Operations,Manager,Female,42,2022-07-03,119473,8.3,17,3,2023.0,,Performance
+878,Sandy Frey,IT,Executive,Male,28,2025-10-27,120907,7.7,23,3,,2025-07-01,
+879,Robert Stewart,HR,Analyst,Male,48,2020-08-14,142376,9.2,12,1,,,Performance
+880,Angel Hicks,Sales,Associate,Male,25,2023-01-25,58495,7.3,2,2,2021.0,,Personal
+881,Jennifer Kent,Operations,Engineer,Male,51,2025-05-04,69788,8.3,6,5,,2025-09-17,Better Opportunity
+882,Laura Gray,IT,Engineer,Male,31,2017-07-31,133189,10.8,21,5,,,
+883,Angela Smith,Finance,Manager,Male,57,2018-12-18,85494,10.9,1,1,,,Layoff
+884,Shannon Harmon,HR,Engineer,Male,36,2025-03-17,97468,10.0,12,1,,2025-11-15,
+885,Amy Green,Sales,Executive,Male,47,2016-07-08,104892,6.7,12,4,,,Performance
+886,Lori Marshall,IT,Executive,Female,45,2016-06-28,148824,9.5,27,4,2016.0,,
+887,David Mora,Marketing,Executive,Male,31,2018-04-24,82378,8.8,3,3,,2024-07-03,Performance
+888,Marc Jones,Operations,Manager,Female,51,2021-01-07,60114,10.0,4,4,2021.0,,Layoff
+889,Michael Massey,IT,Engineer,Male,28,2018-06-29,125315,8.4,3,1,2022.0,,Personal
+890,Marc Key,IT,Executive,Female,37,2019-04-02,27895,6.2,14,1,2019.0,,Personal
+891,Karen Robertson,HR,Analyst,Female,30,2017-02-20,65329,8.7,10,2,,,Layoff
+892,Bradley Smith,Marketing,Associate,Female,49,2017-04-06,124581,6.2,9,1,2017.0,2025-01-29,Layoff
+893,Amanda Smith,IT,Manager,Male,59,2017-12-30,137055,7.6,16,1,2018.0,,Layoff
+894,Gary Ortega,Marketing,Associate,Male,39,2026-01-11,31541,9.6,17,3,2021.0,,Personal
+895,John Butler,IT,Associate,Male,21,2020-04-23,141382,9.5,19,3,2018.0,,Personal
+896,Tiffany Silva,Finance,Executive,Female,51,2019-05-31,133089,7.7,23,4,2021.0,,Personal
+897,Amanda Harris,Sales,Executive,Male,27,2016-08-01,99489,8.0,5,3,2021.0,,Performance
+898,Doris Peterson,Sales,Engineer,Female,30,2022-10-12,40909,6.7,22,4,2022.0,2025-05-22,Layoff
+899,Kristen Thompson,Finance,Executive,Male,23,2022-07-21,90330,7.5,10,4,,2023-09-04,Layoff
+900,Tyler Freeman,HR,Analyst,Female,48,2023-06-22,70522,7.3,13,5,2018.0,2025-07-24,Performance
+901,Latoya Koch,HR,Executive,Female,47,2025-05-28,34924,7.8,5,3,2020.0,,Layoff
+902,Crystal Herrera,Finance,Executive,Male,38,2023-07-08,103696,9.7,23,1,,,Better Opportunity
+903,Caleb Castro,Operations,Engineer,Female,39,2018-05-19,40829,7.9,4,2,,,Better Opportunity
+904,Charles Bauer,Operations,Associate,Female,32,2020-03-29,60388,7.3,10,3,,2023-09-18,Better Opportunity
+905,Ryan Shaw,IT,Manager,Male,23,2021-09-20,55971,9.9,13,3,2023.0,2023-12-04,Personal
+906,Marissa Peck,Marketing,Engineer,Male,49,2022-02-11,40615,9.8,8,5,,2025-12-16,Performance
+907,Jennifer Parker,Sales,Engineer,Male,51,2016-10-15,135674,6.1,2,3,,2025-12-20,Personal
+908,James Cooper,Marketing,Executive,Male,28,2025-11-04,60611,6.6,23,2,,2024-03-21,Performance
+909,Amy Bryant,IT,Associate,Male,38,2023-05-04,59465,9.4,2,3,2023.0,,Personal
+910,James Luna,Marketing,Executive,Male,36,2025-01-07,141551,9.5,20,1,2020.0,2024-01-21,
+911,Regina Russell,HR,Analyst,Female,35,2023-11-22,144934,9.5,14,5,2022.0,2023-08-13,Better Opportunity
+912,John Bryan,Operations,Manager,Female,44,2024-08-22,48247,7.5,7,5,,,Better Opportunity
+913,Melissa Johnson,Marketing,Engineer,Male,55,2017-10-03,82009,9.2,5,5,2019.0,,Layoff
+914,Joel Burns,Finance,Manager,Female,42,2022-02-24,134046,9.0,13,3,2016.0,2025-07-11,Better Opportunity
+915,Jennifer Morse,IT,Manager,Male,49,2021-05-21,119375,8.0,24,2,2023.0,,Better Opportunity
+916,Jeffrey Morgan,Marketing,Engineer,Male,30,2016-11-06,51077,6.5,14,2,,,Better Opportunity
+917,Herbert Porter,Sales,Associate,Male,51,2022-08-27,116409,7.3,1,3,2024.0,2025-05-16,Better Opportunity
+918,Anna Gibson,IT,Engineer,Male,49,2025-03-15,42126,10.8,21,4,,2023-11-09,Performance
+919,Allison Williams,Marketing,Analyst,Male,36,2023-10-25,36019,6.9,1,5,,2024-03-17,Better Opportunity
+920,Jeffery Downs,HR,Analyst,Male,35,2024-11-12,110174,8.8,19,4,,,
+921,Julie Shaw,Operations,Analyst,Female,33,2016-11-26,85668,6.6,15,5,,,
+922,Ross Moore,Marketing,Manager,Male,34,2016-09-08,67950,9.9,14,1,2017.0,2023-07-17,Performance
+923,Brian Johnson,HR,Executive,Female,27,2020-12-13,42995,8.3,20,5,2018.0,,Better Opportunity
+924,Lawrence Johnson,Marketing,Executive,Female,38,2025-03-26,61700,10.9,12,4,,,Better Opportunity
+925,Laurie Good,IT,Engineer,Male,23,2019-12-20,62261,9.2,15,1,,2025-01-02,Personal
+926,Mathew Williams,IT,Executive,Female,35,2019-04-06,34153,8.7,15,5,2019.0,,Personal
+927,Kevin Carrillo,Operations,Associate,Female,25,2024-10-14,36641,7.3,28,1,,2024-07-01,
+928,Christopher Howard,Marketing,Associate,Female,29,2016-12-27,54779,7.3,10,4,,2025-01-24,Better Opportunity
+929,Brandon Martinez,Operations,Engineer,Male,36,2018-09-03,30137,10.3,23,4,,,Better Opportunity
+930,Kyle Gonzales,Sales,Analyst,Female,44,2016-01-28,33629,9.5,29,5,2020.0,,Performance
+931,Kayla Fowler,Marketing,Analyst,Male,33,2016-03-03,129975,9.8,21,5,2019.0,,Layoff
+932,Wendy Davis,Marketing,Manager,Male,34,2018-11-14,110813,10.2,12,3,2024.0,2023-06-16,Better Opportunity
+933,Sheri Lee,IT,Engineer,Male,52,2020-02-29,140643,6.8,0,5,2024.0,2025-12-10,Better Opportunity
+934,Brenda Waters MD,Operations,Executive,Male,34,2023-12-24,111699,6.1,14,1,,,Layoff
+935,Ashley Hunter,HR,Engineer,Female,44,2018-06-11,147345,9.1,25,3,,,Layoff
+936,Carolyn Mooney,Sales,Associate,Female,58,2018-05-18,85201,7.5,28,3,,2023-08-21,Better Opportunity
+937,Vanessa Lee,Sales,Manager,Female,60,2016-09-07,41255,9.8,30,2,,2023-08-06,Layoff
+938,Brenda Brown,IT,Executive,Male,26,2017-05-22,113309,9.3,8,1,2017.0,2024-10-01,Layoff
+939,Jacqueline Avila,HR,Executive,Male,38,2017-08-24,50128,7.0,1,4,,,Better Opportunity
+940,Billy George,Finance,Executive,Male,21,2021-05-15,83670,6.6,24,2,,,Layoff
+941,Kathryn Hansen,Operations,Associate,Female,52,2023-08-24,88900,7.7,26,1,,,Performance
+942,Julie Floyd,Marketing,Manager,Female,49,2021-12-05,81950,10.9,15,4,,,Personal
+943,Emily Smith,Sales,Associate,Female,22,2020-08-19,65124,6.8,11,4,2016.0,2025-03-01,Layoff
+944,Mrs. Sherry Nelson MD,Sales,Executive,Female,31,2016-12-08,52451,6.9,13,2,,,
+945,Isabel Armstrong,Marketing,Executive,Male,52,2018-05-06,116404,7.4,8,1,2024.0,2025-06-02,
+946,Michelle Vasquez,Finance,Engineer,Male,48,2019-09-21,54532,7.9,13,1,,,Performance
+947,Tracey Green,Marketing,Engineer,Male,27,2025-05-10,133948,8.3,8,4,,2025-01-10,Better Opportunity
+948,Brianna Bradshaw,Finance,Analyst,Male,40,2021-01-09,135819,7.3,22,5,,,
+949,Justin Miller,IT,Manager,Male,33,2016-10-29,52310,6.6,1,4,2020.0,2025-09-13,Better Opportunity
+950,Elizabeth Shelton,Sales,Engineer,Male,51,2018-07-15,132657,7.7,17,5,,2025-06-08,Better Opportunity
+951,Mark Richardson,Marketing,Associate,Female,27,2024-11-02,97947,7.5,4,2,2021.0,2023-04-25,
+952,John Garcia,Finance,Associate,Male,44,2017-01-11,99219,7.1,1,2,2018.0,,
+953,Jeffery Werner,Operations,Analyst,Male,30,2023-06-30,72336,6.1,16,4,,,Layoff
+954,Amy Klein,Sales,Manager,Female,40,2021-11-28,105689,6.2,26,2,2022.0,2025-10-31,Better Opportunity
+955,Victoria Mcgee,IT,Analyst,Male,56,2023-02-15,76013,7.3,30,2,,,Performance
+956,Tyler Evans,Finance,Associate,Female,42,2021-08-08,74395,9.6,4,1,,2024-01-31,Personal
+957,Theresa Stout,Sales,Analyst,Female,25,2025-08-09,105218,8.5,28,3,,,Layoff
+958,Ashley Jones,Operations,Executive,Female,27,2016-06-16,35641,6.7,26,1,2023.0,2023-05-09,
+959,Patricia Brown,HR,Analyst,Female,35,2018-07-30,100930,9.8,22,2,,,Personal
+960,Thomas Hartman,HR,Analyst,Female,48,2024-06-30,107715,7.8,4,5,2021.0,2023-11-09,Personal
+961,Elizabeth Perry,Sales,Analyst,Male,60,2017-02-22,143516,8.0,4,4,,,Performance
+962,Maureen Campbell,IT,Analyst,Female,59,2022-02-09,113801,8.8,24,5,2016.0,2023-03-05,Layoff
+963,Emily Smith,Finance,Engineer,Female,35,2025-04-26,113822,7.0,14,5,2018.0,,Layoff
+964,John Fuentes,Operations,Manager,Female,38,2019-08-13,91814,9.3,21,3,2022.0,,Layoff
+965,Laura Hall,Sales,Engineer,Female,51,2025-11-14,103772,10.2,20,4,,2024-04-11,Layoff
+966,Tina Guerrero,HR,Analyst,Male,55,2020-11-17,102593,8.3,16,3,,2023-01-31,Layoff
+967,Andrea Stephenson,IT,Associate,Male,49,2017-09-04,46607,8.4,7,4,2020.0,,
+968,Diane Salinas,IT,Analyst,Female,37,2022-06-04,115070,7.5,22,3,,,Performance
+969,Christopher Scott,Operations,Engineer,Male,46,2017-06-21,86272,9.5,18,4,,,Personal
+970,Amanda Barnes,HR,Engineer,Male,52,2016-03-09,78403,10.8,21,5,2022.0,,Better Opportunity
+971,Andrew Farmer,IT,Analyst,Female,24,2024-12-02,72374,9.1,10,4,,2025-09-08,Better Opportunity
+972,Brendan Davis,Sales,Analyst,Female,37,2017-11-15,98587,10.4,13,5,,,Personal
+973,James Wagner,Operations,Executive,Male,33,2018-08-01,141250,9.5,12,1,2018.0,2024-06-17,Performance
+974,Renee Ibarra,HR,Associate,Male,58,2017-04-12,114314,8.3,7,4,2019.0,2025-04-08,Layoff
+975,Anthony Ramirez,IT,Analyst,Male,22,2016-08-13,49525,8.3,22,1,2020.0,2024-05-28,Layoff
+976,Kelli Morrison,Operations,Associate,Male,57,2017-07-12,86205,9.2,28,1,2020.0,,Personal
+977,Mariah Craig,Sales,Executive,Female,55,2017-10-22,127933,7.4,12,5,2017.0,2024-05-30,Performance
+978,Lisa Lopez,Sales,Analyst,Male,50,2022-12-25,97640,7.1,9,3,,2024-09-09,Performance
+979,Eric Brown,Sales,Engineer,Female,49,2024-04-08,54261,10.6,19,2,,2024-05-05,Better Opportunity
+980,James Cameron,Finance,Analyst,Male,27,2019-04-01,48955,10.3,24,2,,,Personal
+981,Whitney Morgan,Marketing,Analyst,Male,42,2021-09-15,26133,10.3,8,3,2019.0,2024-01-28,
+982,Teresa Castro,Marketing,Manager,Female,31,2016-08-19,59112,7.2,11,5,,2024-04-06,Performance
+983,Thomas Contreras,Marketing,Manager,Male,49,2025-12-08,63280,8.2,19,4,,2023-08-16,Better Opportunity
+984,Kathryn Daniel,Sales,Engineer,Male,21,2019-09-29,79893,9.6,15,1,,,Better Opportunity
+985,Molly Hale,Operations,Engineer,Female,42,2018-02-23,76008,7.4,24,2,2020.0,2025-08-03,Performance
+986,Timothy Moore,Sales,Associate,Male,52,2022-11-19,45635,6.7,24,1,,,Layoff
+987,Wendy Harper,Sales,Associate,Male,52,2025-02-13,103425,10.9,4,4,2022.0,,Better Opportunity
+988,Chad Fitzgerald,Operations,Analyst,Male,30,2023-10-17,118319,8.8,24,2,,2025-07-31,Layoff
+989,Gary Johnson,Sales,Analyst,Female,24,2017-08-21,146939,7.7,30,1,,2024-03-23,Better Opportunity
+990,Andrew Lee,Sales,Analyst,Female,27,2018-04-16,115869,10.2,21,1,,,Personal
+991,Deanna West,Sales,Analyst,Male,53,2019-05-01,64641,8.6,20,5,2024.0,2024-09-12,
+992,Clayton White,Sales,Analyst,Female,34,2020-10-11,112077,8.5,21,4,2019.0,,
+993,Ronald Kemp,Marketing,Executive,Male,36,2020-05-05,88367,6.6,11,2,,2024-04-17,Layoff
+994,Theresa Odonnell,Sales,Associate,Female,48,2022-05-07,81753,8.7,11,2,2022.0,2025-04-11,Personal
+995,Gabrielle Pope,IT,Analyst,Female,23,2017-07-08,97830,7.5,26,4,,,Layoff
+996,Kelly Patterson,IT,Executive,Male,22,2018-04-15,55006,6.4,22,3,2017.0,2024-04-02,Personal
+997,Raymond White,HR,Analyst,Male,24,2025-05-16,141465,9.9,22,1,2024.0,,Layoff
+998,Anthony Olson,Finance,Engineer,Female,23,2021-10-22,35357,10.3,11,5,,2025-10-08,
+999,Sandy Montoya,Marketing,Associate,Female,39,2020-03-18,72295,7.9,23,4,2021.0,,Personal
+1000,William Erickson,Marketing,Executive,Male,55,2019-02-05,90350,8.5,27,2,2019.0,,Personal
